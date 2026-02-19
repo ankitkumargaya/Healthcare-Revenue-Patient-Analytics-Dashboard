@@ -1,0 +1,2000 @@
+"1","Dr. Kiran Kumar","Pediatrics","Chennai","Tamil Nadu"
+"2","Dr. Sunita Reddy","Urology","Pune","Maharashtra"
+"3","Dr. Anita Singh","Urology","Kolkata","West Bengal"
+"4","Dr. Anita Reddy","Orthopedics","Lucknow","Uttar Pradesh"
+"5","Dr. Meena Patel","Gynecology","Bengaluru","Karnataka"
+"6","Dr. Sunil Chopra","General Medicine","Ahmedabad","Gujarat"
+"7","Dr. Priya Iyer","Orthopedics","Ahmedabad","Gujarat"
+"8","Dr. Vijay Sharma","Pediatrics","Mumbai","Maharashtra"
+"9","Dr. Ritu Chopra","Gynecology","Jaipur","Rajasthan"
+"10","Dr. Meena Chopra","Cardiology","Lucknow","Uttar Pradesh"
+"11","Dr. Meena Patel","Oncology","Hyderabad","Telangana"
+"12","Dr. Kiran Verma","Gastroenterology","Lucknow","Uttar Pradesh"
+"13","Dr. Ritu Sharma","Pulmonology","Pune","Maharashtra"
+"14","Dr. Shreya Patel","Psychiatry","Jaipur","Rajasthan"
+"15","Dr. Rohit Singh","Psychiatry","Kolkata","West Bengal"
+"16","Dr. Sunil Patel","Psychiatry","Ahmedabad","Gujarat"
+"17","Dr. Amit Reddy","General Medicine","Kolkata","West Bengal"
+"18","Dr. Anita Reddy","Orthopedics","Pune","Maharashtra"
+"19","Dr. Rohit Iyer","Pediatrics","Kolkata","West Bengal"
+"20","Dr. Kavita Yadav","Psychiatry","Kolkata","West Bengal"
+"21","Dr. Rohit Kumar","Dermatology","Chennai","Tamil Nadu"
+"22","Dr. Sunita Das","Pulmonology","Chennai","Tamil Nadu"
+"23","Dr. Sunita Reddy","Orthopedics","Ahmedabad","Gujarat"
+"24","Dr. Anil Verma","Orthopedics","Mumbai","Maharashtra"
+"25","Dr. Amit Sharma","Urology","Bengaluru","Karnataka"
+"26","Dr. Shreya Das","Oncology","Pune","Maharashtra"
+"27","Dr. Meena Das","Pulmonology","Pune","Maharashtra"
+"28","Dr. Vijay Chopra","Cardiology","Jaipur","Rajasthan"
+"29","Dr. Amit Das","Urology","Pune","Maharashtra"
+"30","Dr. Vijay Singh","Orthopedics","Pune","Maharashtra"
+"31","Dr. Amit Singh","General Medicine","Mumbai","Maharashtra"
+"32","Dr. Rohit Das","Pediatrics","Lucknow","Uttar Pradesh"
+"33","Dr. Prakash Iyer","Cardiology","Mumbai","Maharashtra"
+"34","Dr. Anil Patel","Orthopedics","Bengaluru","Karnataka"
+"35","Dr. Amit Iyer","Pediatrics","Mumbai","Maharashtra"
+"36","Dr. Neha Yadav","Pediatrics","Kolkata","West Bengal"
+"37","Dr. Aarti Verma","Psychiatry","Chennai","Tamil Nadu"
+"38","Dr. Anita Chopra","Cardiology","Ahmedabad","Gujarat"
+"39","Dr. Pooja Patel","Gynecology","Ahmedabad","Gujarat"
+"40","Dr. Rohit Sharma","Gastroenterology","Lucknow","Uttar Pradesh"
+"41","Dr. Kavita Reddy","Cardiology","Ahmedabad","Gujarat"
+"42","Dr. Kavita Yadav","Gastroenterology","Pune","Maharashtra"
+"43","Dr. Sunil Yadav","Oncology","Pune","Maharashtra"
+"44","Dr. Shreya Sharma","Pediatrics","Lucknow","Uttar Pradesh"
+"45","Dr. Pooja Patel","Dermatology","Delhi","Delhi"
+"46","Dr. Suresh Kumar","Dermatology","Jaipur","Rajasthan"
+"47","Dr. Suresh Iyer","Pediatrics","Ahmedabad","Gujarat"
+"48","Dr. Sunil Yadav","Pulmonology","Pune","Maharashtra"
+"49","Dr. Neha Yadav","Neurology","Chennai","Tamil Nadu"
+"50","Dr. Sunita Verma","General Medicine","Hyderabad","Telangana"
+"51","Dr. Prakash Chopra","General Medicine","Chennai","Tamil Nadu"
+"52","Dr. Shreya Verma","General Medicine","Ahmedabad","Gujarat"
+"53","Dr. Neha Reddy","Gynecology","Mumbai","Maharashtra"
+"54","Dr. Meena Yadav","ENT","Delhi","Delhi"
+"55","Dr. Anita Kumar","Gastroenterology","Chennai","Tamil Nadu"
+"56","Dr. Shreya Singh","Gastroenterology","Pune","Maharashtra"
+"57","Dr. Suresh Verma","Gynecology","Ahmedabad","Gujarat"
+"58","Dr. Amit Das","Gynecology","Kolkata","West Bengal"
+"59","Dr. Rajesh Verma","Pediatrics","Chennai","Tamil Nadu"
+"60","Dr. Deepak Verma","Dermatology","Jaipur","Rajasthan"
+"61","Dr. Kiran Iyer","Urology","Mumbai","Maharashtra"
+"62","Dr. Priya Das","Orthopedics","Delhi","Delhi"
+"63","Dr. Priya Yadav","Gynecology","Ahmedabad","Gujarat"
+"64","Dr. Meena Sharma","Neurology","Delhi","Delhi"
+"65","Dr. Meena Iyer","Orthopedics","Kolkata","West Bengal"
+"66","Dr. Kavita Das","General Medicine","Ahmedabad","Gujarat"
+"67","Dr. Vijay Singh","General Medicine","Delhi","Delhi"
+"68","Dr. Prakash Das","Pediatrics","Jaipur","Rajasthan"
+"69","Dr. Pooja Singh","Pulmonology","Pune","Maharashtra"
+"70","Dr. Sunita Kumar","Orthopedics","Ahmedabad","Gujarat"
+"71","Dr. Aarti Chopra","Psychiatry","Ahmedabad","Gujarat"
+"72","Dr. Neha Iyer","Pediatrics","Chennai","Tamil Nadu"
+"73","Dr. Priya Das","Psychiatry","Kolkata","West Bengal"
+"74","Dr. Sunil Kumar","Pediatrics","Ahmedabad","Gujarat"
+"75","Dr. Priya Kumar","Orthopedics","Ahmedabad","Gujarat"
+"76","Dr. Ritu Verma","General Medicine","Bengaluru","Karnataka"
+"77","Dr. Aarti Reddy","General Medicine","Lucknow","Uttar Pradesh"
+"78","Dr. Priya Sharma","General Medicine","Delhi","Delhi"
+"79","Dr. Anita Singh","Orthopedics","Kolkata","West Bengal"
+"80","Dr. Aarti Reddy","Dermatology","Kolkata","West Bengal"
+"81","Dr. Sunita Verma","Gastroenterology","Delhi","Delhi"
+"82","Dr. Shreya Singh","Dermatology","Jaipur","Rajasthan"
+"83","Dr. Kavita Sharma","General Medicine","Jaipur","Rajasthan"
+"84","Dr. Kavita Iyer","Gynecology","Pune","Maharashtra"
+"85","Dr. Rohit Singh","Gastroenterology","Kolkata","West Bengal"
+"86","Dr. Neha Sharma","ENT","Mumbai","Maharashtra"
+"87","Dr. Anil Sharma","Dermatology","Lucknow","Uttar Pradesh"
+"88","Dr. Sunil Kumar","Oncology","Jaipur","Rajasthan"
+"89","Dr. Pooja Verma","Urology","Chennai","Tamil Nadu"
+"90","Dr. Aarti Verma","Dermatology","Lucknow","Uttar Pradesh"
+"91","Dr. Pooja Iyer","Psychiatry","Jaipur","Rajasthan"
+"92","Dr. Rajesh Reddy","Cardiology","Bengaluru","Karnataka"
+"93","Dr. Anita Chopra","Gastroenterology","Ahmedabad","Gujarat"
+"94","Dr. Anita Chopra","Dermatology","Mumbai","Maharashtra"
+"95","Dr. Sunil Verma","General Medicine","Jaipur","Rajasthan"
+"96","Dr. Kavita Verma","Gastroenterology","Pune","Maharashtra"
+"97","Dr. Vijay Sharma","Dermatology","Pune","Maharashtra"
+"98","Dr. Priya Reddy","Neurology","Jaipur","Rajasthan"
+"99","Dr. Amit Iyer","Gynecology","Mumbai","Maharashtra"
+"100","Dr. Kiran Reddy","Gynecology","Mumbai","Maharashtra"
+"101","Dr. Vijay Iyer","Psychiatry","Mumbai","Maharashtra"
+"102","Dr. Pooja Singh","Neurology","Chennai","Tamil Nadu"
+"103","Dr. Ritu Kumar","Urology","Lucknow","Uttar Pradesh"
+"104","Dr. Rajesh Das","Dermatology","Mumbai","Maharashtra"
+"105","Dr. Kavita Reddy","Pediatrics","Lucknow","Uttar Pradesh"
+"106","Dr. Ritu Yadav","Pulmonology","Jaipur","Rajasthan"
+"107","Dr. Neha Iyer","Oncology","Jaipur","Rajasthan"
+"108","Dr. Rajesh Verma","Cardiology","Kolkata","West Bengal"
+"109","Dr. Vijay Iyer","Urology","Mumbai","Maharashtra"
+"110","Dr. Vijay Yadav","Urology","Lucknow","Uttar Pradesh"
+"111","Dr. Kavita Verma","Cardiology","Kolkata","West Bengal"
+"112","Dr. Kiran Chopra","Pediatrics","Pune","Maharashtra"
+"113","Dr. Deepak Reddy","Oncology","Kolkata","West Bengal"
+"114","Dr. Vijay Reddy","Orthopedics","Lucknow","Uttar Pradesh"
+"115","Dr. Rohit Iyer","Urology","Bengaluru","Karnataka"
+"116","Dr. Rajesh Iyer","Psychiatry","Pune","Maharashtra"
+"117","Dr. Shreya Reddy","General Medicine","Delhi","Delhi"
+"118","Dr. Kavita Verma","Pulmonology","Kolkata","West Bengal"
+"119","Dr. Rajesh Reddy","Gynecology","Kolkata","West Bengal"
+"120","Dr. Prakash Verma","Psychiatry","Jaipur","Rajasthan"
+"121","Dr. Rohit Kumar","Pediatrics","Jaipur","Rajasthan"
+"122","Dr. Sunita Sharma","Cardiology","Hyderabad","Telangana"
+"123","Dr. Aarti Sharma","Gynecology","Lucknow","Uttar Pradesh"
+"124","Dr. Vijay Kumar","Cardiology","Lucknow","Uttar Pradesh"
+"125","Dr. Pooja Singh","Orthopedics","Pune","Maharashtra"
+"126","Dr. Sunil Sharma","Urology","Jaipur","Rajasthan"
+"127","Dr. Rajesh Singh","Gynecology","Mumbai","Maharashtra"
+"128","Dr. Anita Verma","Urology","Jaipur","Rajasthan"
+"129","Dr. Ritu Sharma","Gastroenterology","Lucknow","Uttar Pradesh"
+"130","Dr. Amit Singh","Psychiatry","Bengaluru","Karnataka"
+"131","Dr. Kavita Sharma","ENT","Bengaluru","Karnataka"
+"132","Dr. Sunita Kumar","Dermatology","Chennai","Tamil Nadu"
+"133","Dr. Meena Iyer","Urology","Lucknow","Uttar Pradesh"
+"134","Dr. Kiran Yadav","Cardiology","Chennai","Tamil Nadu"
+"135","Dr. Sunil Reddy","Gynecology","Kolkata","West Bengal"
+"136","Dr. Deepak Reddy","ENT","Chennai","Tamil Nadu"
+"137","Dr. Sunita Verma","Psychiatry","Mumbai","Maharashtra"
+"138","Dr. Rajesh Verma","Dermatology","Mumbai","Maharashtra"
+"139","Dr. Aarti Das","ENT","Kolkata","West Bengal"
+"140","Dr. Deepak Verma","Psychiatry","Lucknow","Uttar Pradesh"
+"141","Dr. Sunita Das","Orthopedics","Jaipur","Rajasthan"
+"142","Dr. Ritu Reddy","General Medicine","Kolkata","West Bengal"
+"143","Dr. Kiran Iyer","Neurology","Kolkata","West Bengal"
+"144","Dr. Prakash Singh","Oncology","Bengaluru","Karnataka"
+"145","Dr. Rohit Singh","General Medicine","Chennai","Tamil Nadu"
+"146","Dr. Aarti Patel","Gastroenterology","Bengaluru","Karnataka"
+"147","Dr. Vijay Reddy","Orthopedics","Lucknow","Uttar Pradesh"
+"148","Dr. Sunil Iyer","Gynecology","Ahmedabad","Gujarat"
+"149","Dr. Sunil Sharma","Oncology","Mumbai","Maharashtra"
+"150","Dr. Prakash Patel","Psychiatry","Chennai","Tamil Nadu"
+"151","Dr. Rohit Das","Gastroenterology","Chennai","Tamil Nadu"
+"152","Dr. Rohit Iyer","ENT","Ahmedabad","Gujarat"
+"153","Dr. Rajesh Kumar","General Medicine","Bengaluru","Karnataka"
+"154","Dr. Kavita Sharma","Orthopedics","Pune","Maharashtra"
+"155","Dr. Kavita Das","Gynecology","Kolkata","West Bengal"
+"156","Dr. Anita Yadav","General Medicine","Hyderabad","Telangana"
+"157","Dr. Rohit Sharma","Pediatrics","Chennai","Tamil Nadu"
+"158","Dr. Neha Reddy","Pulmonology","Chennai","Tamil Nadu"
+"159","Dr. Rohit Verma","Gynecology","Ahmedabad","Gujarat"
+"160","Dr. Sunil Yadav","Gastroenterology","Chennai","Tamil Nadu"
+"161","Dr. Kiran Das","Pulmonology","Delhi","Delhi"
+"162","Dr. Neha Kumar","Dermatology","Mumbai","Maharashtra"
+"163","Dr. Amit Kumar","Urology","Mumbai","Maharashtra"
+"164","Dr. Amit Reddy","General Medicine","Lucknow","Uttar Pradesh"
+"165","Dr. Neha Singh","Neurology","Delhi","Delhi"
+"166","Dr. Aarti Sharma","Gastroenterology","Kolkata","West Bengal"
+"167","Dr. Kavita Patel","Pulmonology","Hyderabad","Telangana"
+"168","Dr. Prakash Sharma","Pediatrics","Chennai","Tamil Nadu"
+"169","Dr. Anita Sharma","General Medicine","Kolkata","West Bengal"
+"170","Dr. Sunil Singh","Pulmonology","Ahmedabad","Gujarat"
+"171","Dr. Rohit Yadav","Orthopedics","Jaipur","Rajasthan"
+"172","Dr. Suresh Yadav","Gynecology","Bengaluru","Karnataka"
+"173","Dr. Amit Chopra","Cardiology","Bengaluru","Karnataka"
+"174","Dr. Sunil Kumar","Gastroenterology","Pune","Maharashtra"
+"175","Dr. Shreya Kumar","Cardiology","Pune","Maharashtra"
+"176","Dr. Ritu Iyer","Pediatrics","Mumbai","Maharashtra"
+"177","Dr. Kavita Reddy","Cardiology","Delhi","Delhi"
+"178","Dr. Priya Reddy","Psychiatry","Lucknow","Uttar Pradesh"
+"179","Dr. Kavita Sharma","Neurology","Bengaluru","Karnataka"
+"180","Dr. Shreya Sharma","Oncology","Delhi","Delhi"
+"181","Dr. Kavita Kumar","Gastroenterology","Mumbai","Maharashtra"
+"182","Dr. Kiran Chopra","Dermatology","Bengaluru","Karnataka"
+"183","Dr. Aarti Yadav","Urology","Chennai","Tamil Nadu"
+"184","Dr. Neha Yadav","Orthopedics","Jaipur","Rajasthan"
+"185","Dr. Anita Patel","Orthopedics","Lucknow","Uttar Pradesh"
+"186","Dr. Suresh Yadav","Gastroenterology","Jaipur","Rajasthan"
+"187","Dr. Kiran Das","Gynecology","Hyderabad","Telangana"
+"188","Dr. Amit Kumar","General Medicine","Chennai","Tamil Nadu"
+"189","Dr. Priya Kumar","Pulmonology","Ahmedabad","Gujarat"
+"190","Dr. Aarti Chopra","Pulmonology","Pune","Maharashtra"
+"191","Dr. Vijay Yadav","General Medicine","Delhi","Delhi"
+"192","Dr. Rajesh Patel","Oncology","Lucknow","Uttar Pradesh"
+"193","Dr. Sunil Sharma","Psychiatry","Jaipur","Rajasthan"
+"194","Dr. Suresh Chopra","Cardiology","Pune","Maharashtra"
+"195","Dr. Prakash Iyer","Gynecology","Ahmedabad","Gujarat"
+"196","Dr. Aarti Yadav","Oncology","Kolkata","West Bengal"
+"197","Dr. Ritu Reddy","Cardiology","Delhi","Delhi"
+"198","Dr. Ritu Reddy","Pulmonology","Lucknow","Uttar Pradesh"
+"199","Dr. Vijay Kumar","Orthopedics","Ahmedabad","Gujarat"
+"200","Dr. Anita Chopra","Neurology","Kolkata","West Bengal"
+"201","Dr. Prakash Yadav","Cardiology","Chennai","Tamil Nadu"
+"202","Dr. Suresh Iyer","Pulmonology","Mumbai","Maharashtra"
+"203","Dr. Amit Das","Urology","Mumbai","Maharashtra"
+"204","Dr. Prakash Iyer","Orthopedics","Bengaluru","Karnataka"
+"205","Dr. Rajesh Iyer","Oncology","Hyderabad","Telangana"
+"206","Dr. Neha Iyer","Gastroenterology","Delhi","Delhi"
+"207","Dr. Pooja Singh","Pulmonology","Kolkata","West Bengal"
+"208","Dr. Meena Sharma","Pulmonology","Pune","Maharashtra"
+"209","Dr. Kavita Sharma","Cardiology","Chennai","Tamil Nadu"
+"210","Dr. Amit Patel","Oncology","Mumbai","Maharashtra"
+"211","Dr. Rajesh Kumar","Gastroenterology","Mumbai","Maharashtra"
+"212","Dr. Kavita Verma","Urology","Chennai","Tamil Nadu"
+"213","Dr. Deepak Yadav","Gynecology","Kolkata","West Bengal"
+"214","Dr. Amit Chopra","Orthopedics","Ahmedabad","Gujarat"
+"215","Dr. Pooja Patel","Neurology","Pune","Maharashtra"
+"216","Dr. Sunil Verma","Gastroenterology","Chennai","Tamil Nadu"
+"217","Dr. Neha Das","General Medicine","Pune","Maharashtra"
+"218","Dr. Kavita Kumar","Orthopedics","Hyderabad","Telangana"
+"219","Dr. Suresh Patel","Gastroenterology","Mumbai","Maharashtra"
+"220","Dr. Suresh Kumar","ENT","Kolkata","West Bengal"
+"221","Dr. Prakash Das","Urology","Chennai","Tamil Nadu"
+"222","Dr. Shreya Reddy","General Medicine","Bengaluru","Karnataka"
+"223","Dr. Aarti Patel","Cardiology","Lucknow","Uttar Pradesh"
+"224","Dr. Meena Reddy","Urology","Kolkata","West Bengal"
+"225","Dr. Amit Das","ENT","Kolkata","West Bengal"
+"226","Dr. Amit Singh","Cardiology","Ahmedabad","Gujarat"
+"227","Dr. Prakash Sharma","ENT","Lucknow","Uttar Pradesh"
+"228","Dr. Neha Patel","Urology","Jaipur","Rajasthan"
+"229","Dr. Aarti Singh","Gastroenterology","Chennai","Tamil Nadu"
+"230","Dr. Vijay Verma","Oncology","Mumbai","Maharashtra"
+"231","Dr. Kiran Verma","Oncology","Jaipur","Rajasthan"
+"232","Dr. Shreya Kumar","ENT","Delhi","Delhi"
+"233","Dr. Deepak Yadav","Neurology","Kolkata","West Bengal"
+"234","Dr. Rohit Sharma","Gynecology","Kolkata","West Bengal"
+"235","Dr. Neha Verma","Neurology","Kolkata","West Bengal"
+"236","Dr. Ritu Patel","Psychiatry","Hyderabad","Telangana"
+"237","Dr. Deepak Sharma","Pulmonology","Kolkata","West Bengal"
+"238","Dr. Meena Sharma","Neurology","Pune","Maharashtra"
+"239","Dr. Prakash Verma","Oncology","Kolkata","West Bengal"
+"240","Dr. Amit Iyer","Gastroenterology","Delhi","Delhi"
+"241","Dr. Vijay Verma","Pulmonology","Jaipur","Rajasthan"
+"242","Dr. Vijay Verma","General Medicine","Kolkata","West Bengal"
+"243","Dr. Neha Yadav","Urology","Chennai","Tamil Nadu"
+"244","Dr. Anil Verma","Dermatology","Hyderabad","Telangana"
+"245","Dr. Rajesh Patel","ENT","Chennai","Tamil Nadu"
+"246","Dr. Suresh Das","General Medicine","Kolkata","West Bengal"
+"247","Dr. Shreya Verma","Pediatrics","Kolkata","West Bengal"
+"248","Dr. Ritu Patel","Orthopedics","Pune","Maharashtra"
+"249","Dr. Kiran Yadav","Gastroenterology","Lucknow","Uttar Pradesh"
+"250","Dr. Anita Patel","Pulmonology","Lucknow","Uttar Pradesh"
+"251","Dr. Kavita Verma","Gynecology","Bengaluru","Karnataka"
+"252","Dr. Ritu Iyer","Orthopedics","Jaipur","Rajasthan"
+"253","Dr. Priya Verma","Psychiatry","Hyderabad","Telangana"
+"254","Dr. Sunil Patel","ENT","Bengaluru","Karnataka"
+"255","Dr. Kavita Kumar","Dermatology","Lucknow","Uttar Pradesh"
+"256","Dr. Aarti Iyer","Dermatology","Kolkata","West Bengal"
+"257","Dr. Anita Kumar","Cardiology","Kolkata","West Bengal"
+"258","Dr. Ritu Kumar","Cardiology","Jaipur","Rajasthan"
+"259","Dr. Amit Patel","ENT","Hyderabad","Telangana"
+"260","Dr. Ritu Singh","General Medicine","Kolkata","West Bengal"
+"261","Dr. Anita Kumar","Dermatology","Hyderabad","Telangana"
+"262","Dr. Aarti Chopra","Gynecology","Delhi","Delhi"
+"263","Dr. Kavita Chopra","Pulmonology","Delhi","Delhi"
+"264","Dr. Deepak Iyer","Gastroenterology","Mumbai","Maharashtra"
+"265","Dr. Suresh Verma","Neurology","Ahmedabad","Gujarat"
+"266","Dr. Kavita Verma","Orthopedics","Bengaluru","Karnataka"
+"267","Dr. Kiran Das","Gynecology","Pune","Maharashtra"
+"268","Dr. Ritu Chopra","Psychiatry","Hyderabad","Telangana"
+"269","Dr. Deepak Kumar","Gastroenterology","Hyderabad","Telangana"
+"270","Dr. Vijay Iyer","Urology","Jaipur","Rajasthan"
+"271","Dr. Ritu Sharma","Dermatology","Jaipur","Rajasthan"
+"272","Dr. Shreya Patel","Pediatrics","Kolkata","West Bengal"
+"273","Dr. Neha Verma","Gastroenterology","Lucknow","Uttar Pradesh"
+"274","Dr. Kiran Yadav","Neurology","Pune","Maharashtra"
+"275","Dr. Deepak Verma","Dermatology","Bengaluru","Karnataka"
+"276","Dr. Anil Patel","Neurology","Bengaluru","Karnataka"
+"277","Dr. Meena Das","Pediatrics","Delhi","Delhi"
+"278","Dr. Priya Reddy","Orthopedics","Delhi","Delhi"
+"279","Dr. Prakash Kumar","ENT","Lucknow","Uttar Pradesh"
+"280","Dr. Meena Chopra","Pediatrics","Mumbai","Maharashtra"
+"281","Dr. Rajesh Patel","Orthopedics","Delhi","Delhi"
+"282","Dr. Rajesh Das","Dermatology","Mumbai","Maharashtra"
+"283","Dr. Pooja Sharma","Pulmonology","Bengaluru","Karnataka"
+"284","Dr. Rajesh Patel","ENT","Mumbai","Maharashtra"
+"285","Dr. Sunil Kumar","Gastroenterology","Kolkata","West Bengal"
+"286","Dr. Vijay Chopra","General Medicine","Ahmedabad","Gujarat"
+"287","Dr. Meena Patel","Oncology","Kolkata","West Bengal"
+"288","Dr. Vijay Iyer","Oncology","Bengaluru","Karnataka"
+"289","Dr. Sunita Chopra","Neurology","Mumbai","Maharashtra"
+"290","Dr. Sunita Sharma","Oncology","Pune","Maharashtra"
+"291","Dr. Prakash Chopra","Dermatology","Mumbai","Maharashtra"
+"292","Dr. Kiran Sharma","Psychiatry","Delhi","Delhi"
+"293","Dr. Anil Chopra","Cardiology","Kolkata","West Bengal"
+"294","Dr. Rajesh Reddy","Oncology","Kolkata","West Bengal"
+"295","Dr. Sunita Patel","Orthopedics","Ahmedabad","Gujarat"
+"296","Dr. Ritu Das","Orthopedics","Jaipur","Rajasthan"
+"297","Dr. Rohit Kumar","Pulmonology","Ahmedabad","Gujarat"
+"298","Dr. Aarti Das","Orthopedics","Lucknow","Uttar Pradesh"
+"299","Dr. Priya Patel","Gastroenterology","Lucknow","Uttar Pradesh"
+"300","Dr. Anita Yadav","ENT","Chennai","Tamil Nadu"
+"301","Dr. Shreya Patel","Pulmonology","Hyderabad","Telangana"
+"302","Dr. Amit Das","General Medicine","Chennai","Tamil Nadu"
+"303","Dr. Aarti Iyer","Cardiology","Jaipur","Rajasthan"
+"304","Dr. Meena Das","Neurology","Mumbai","Maharashtra"
+"305","Dr. Deepak Reddy","Cardiology","Delhi","Delhi"
+"306","Dr. Pooja Sharma","Neurology","Ahmedabad","Gujarat"
+"307","Dr. Rohit Sharma","Orthopedics","Mumbai","Maharashtra"
+"308","Dr. Priya Sharma","Psychiatry","Hyderabad","Telangana"
+"309","Dr. Shreya Singh","Gynecology","Bengaluru","Karnataka"
+"310","Dr. Neha Das","Oncology","Hyderabad","Telangana"
+"311","Dr. Rajesh Das","ENT","Lucknow","Uttar Pradesh"
+"312","Dr. Aarti Das","Orthopedics","Pune","Maharashtra"
+"313","Dr. Sunita Singh","Cardiology","Lucknow","Uttar Pradesh"
+"314","Dr. Suresh Yadav","Cardiology","Chennai","Tamil Nadu"
+"315","Dr. Sunil Kumar","ENT","Delhi","Delhi"
+"316","Dr. Deepak Sharma","Pediatrics","Hyderabad","Telangana"
+"317","Dr. Rajesh Patel","Oncology","Ahmedabad","Gujarat"
+"318","Dr. Anita Yadav","Pulmonology","Mumbai","Maharashtra"
+"319","Dr. Anil Reddy","Dermatology","Pune","Maharashtra"
+"320","Dr. Sunil Das","Cardiology","Hyderabad","Telangana"
+"321","Dr. Priya Verma","General Medicine","Pune","Maharashtra"
+"322","Dr. Vijay Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"323","Dr. Kavita Patel","Pediatrics","Mumbai","Maharashtra"
+"324","Dr. Ritu Das","Neurology","Jaipur","Rajasthan"
+"325","Dr. Suresh Iyer","ENT","Lucknow","Uttar Pradesh"
+"326","Dr. Kavita Das","Dermatology","Lucknow","Uttar Pradesh"
+"327","Dr. Suresh Singh","Neurology","Ahmedabad","Gujarat"
+"328","Dr. Suresh Das","Pulmonology","Hyderabad","Telangana"
+"329","Dr. Kiran Reddy","Psychiatry","Chennai","Tamil Nadu"
+"330","Dr. Shreya Chopra","Gynecology","Delhi","Delhi"
+"331","Dr. Kiran Singh","Oncology","Chennai","Tamil Nadu"
+"332","Dr. Suresh Verma","Neurology","Pune","Maharashtra"
+"333","Dr. Anita Iyer","Neurology","Lucknow","Uttar Pradesh"
+"334","Dr. Meena Patel","Cardiology","Bengaluru","Karnataka"
+"335","Dr. Meena Iyer","Cardiology","Mumbai","Maharashtra"
+"336","Dr. Rajesh Sharma","Oncology","Kolkata","West Bengal"
+"337","Dr. Anil Yadav","Pulmonology","Lucknow","Uttar Pradesh"
+"338","Dr. Meena Iyer","Pediatrics","Jaipur","Rajasthan"
+"339","Dr. Deepak Verma","Oncology","Hyderabad","Telangana"
+"340","Dr. Kavita Singh","Pediatrics","Kolkata","West Bengal"
+"341","Dr. Suresh Kumar","ENT","Hyderabad","Telangana"
+"342","Dr. Sunil Chopra","Gynecology","Bengaluru","Karnataka"
+"343","Dr. Deepak Kumar","Pediatrics","Jaipur","Rajasthan"
+"344","Dr. Neha Kumar","Gastroenterology","Hyderabad","Telangana"
+"345","Dr. Shreya Yadav","Psychiatry","Kolkata","West Bengal"
+"346","Dr. Sunil Reddy","Psychiatry","Chennai","Tamil Nadu"
+"347","Dr. Deepak Chopra","Oncology","Jaipur","Rajasthan"
+"348","Dr. Neha Kumar","Dermatology","Ahmedabad","Gujarat"
+"349","Dr. Shreya Chopra","Orthopedics","Bengaluru","Karnataka"
+"350","Dr. Sunil Patel","Pediatrics","Lucknow","Uttar Pradesh"
+"351","Dr. Priya Reddy","General Medicine","Mumbai","Maharashtra"
+"352","Dr. Neha Reddy","Urology","Bengaluru","Karnataka"
+"353","Dr. Priya Iyer","Neurology","Chennai","Tamil Nadu"
+"354","Dr. Kavita Yadav","Gynecology","Delhi","Delhi"
+"355","Dr. Suresh Yadav","Dermatology","Bengaluru","Karnataka"
+"356","Dr. Vijay Yadav","General Medicine","Kolkata","West Bengal"
+"357","Dr. Amit Yadav","Gastroenterology","Ahmedabad","Gujarat"
+"358","Dr. Sunita Das","Cardiology","Lucknow","Uttar Pradesh"
+"359","Dr. Neha Kumar","General Medicine","Chennai","Tamil Nadu"
+"360","Dr. Sunita Reddy","Psychiatry","Hyderabad","Telangana"
+"361","Dr. Anita Sharma","Cardiology","Hyderabad","Telangana"
+"362","Dr. Shreya Patel","Urology","Hyderabad","Telangana"
+"363","Dr. Kiran Reddy","Neurology","Jaipur","Rajasthan"
+"364","Dr. Anil Patel","Cardiology","Kolkata","West Bengal"
+"365","Dr. Rohit Yadav","Pulmonology","Delhi","Delhi"
+"366","Dr. Pooja Iyer","ENT","Delhi","Delhi"
+"367","Dr. Ritu Iyer","Urology","Pune","Maharashtra"
+"368","Dr. Meena Reddy","Psychiatry","Lucknow","Uttar Pradesh"
+"369","Dr. Ritu Singh","Gynecology","Bengaluru","Karnataka"
+"370","Dr. Rohit Verma","Dermatology","Chennai","Tamil Nadu"
+"371","Dr. Kiran Verma","Orthopedics","Ahmedabad","Gujarat"
+"372","Dr. Ritu Yadav","Pulmonology","Jaipur","Rajasthan"
+"373","Dr. Ritu Reddy","Pediatrics","Pune","Maharashtra"
+"374","Dr. Deepak Kumar","Neurology","Kolkata","West Bengal"
+"375","Dr. Deepak Chopra","Gynecology","Mumbai","Maharashtra"
+"376","Dr. Sunil Iyer","General Medicine","Chennai","Tamil Nadu"
+"377","Dr. Suresh Reddy","Urology","Hyderabad","Telangana"
+"378","Dr. Deepak Kumar","ENT","Pune","Maharashtra"
+"379","Dr. Ritu Singh","Dermatology","Ahmedabad","Gujarat"
+"380","Dr. Deepak Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"381","Dr. Anil Das","Gastroenterology","Pune","Maharashtra"
+"382","Dr. Vijay Yadav","Gynecology","Kolkata","West Bengal"
+"383","Dr. Ritu Sharma","General Medicine","Kolkata","West Bengal"
+"384","Dr. Anil Iyer","General Medicine","Pune","Maharashtra"
+"385","Dr. Priya Yadav","Gastroenterology","Bengaluru","Karnataka"
+"386","Dr. Rohit Das","ENT","Bengaluru","Karnataka"
+"387","Dr. Meena Iyer","Gastroenterology","Jaipur","Rajasthan"
+"388","Dr. Pooja Chopra","Urology","Mumbai","Maharashtra"
+"389","Dr. Vijay Iyer","ENT","Hyderabad","Telangana"
+"390","Dr. Anita Das","Pulmonology","Mumbai","Maharashtra"
+"391","Dr. Meena Patel","Dermatology","Delhi","Delhi"
+"392","Dr. Pooja Verma","Pediatrics","Kolkata","West Bengal"
+"393","Dr. Suresh Kumar","Pulmonology","Bengaluru","Karnataka"
+"394","Dr. Rajesh Reddy","Oncology","Chennai","Tamil Nadu"
+"395","Dr. Aarti Patel","Psychiatry","Kolkata","West Bengal"
+"396","Dr. Priya Yadav","Neurology","Delhi","Delhi"
+"397","Dr. Pooja Patel","ENT","Kolkata","West Bengal"
+"398","Dr. Rohit Kumar","Pulmonology","Chennai","Tamil Nadu"
+"399","Dr. Neha Kumar","Psychiatry","Jaipur","Rajasthan"
+"400","Dr. Vijay Kumar","Psychiatry","Bengaluru","Karnataka"
+"401","Dr. Neha Kumar","Dermatology","Mumbai","Maharashtra"
+"402","Dr. Rohit Iyer","Psychiatry","Bengaluru","Karnataka"
+"403","Dr. Sunita Reddy","Orthopedics","Kolkata","West Bengal"
+"404","Dr. Anil Kumar","Pediatrics","Pune","Maharashtra"
+"405","Dr. Anil Iyer","Psychiatry","Hyderabad","Telangana"
+"406","Dr. Priya Patel","Gynecology","Bengaluru","Karnataka"
+"407","Dr. Kavita Patel","ENT","Bengaluru","Karnataka"
+"408","Dr. Sunil Yadav","Orthopedics","Mumbai","Maharashtra"
+"409","Dr. Sunita Reddy","Pulmonology","Chennai","Tamil Nadu"
+"410","Dr. Kavita Reddy","Pediatrics","Bengaluru","Karnataka"
+"411","Dr. Pooja Das","Orthopedics","Delhi","Delhi"
+"412","Dr. Kavita Kumar","Pediatrics","Kolkata","West Bengal"
+"413","Dr. Priya Das","Urology","Mumbai","Maharashtra"
+"414","Dr. Neha Verma","Pediatrics","Mumbai","Maharashtra"
+"415","Dr. Priya Iyer","ENT","Delhi","Delhi"
+"416","Dr. Neha Das","Oncology","Mumbai","Maharashtra"
+"417","Dr. Sunil Iyer","ENT","Bengaluru","Karnataka"
+"418","Dr. Ritu Chopra","Oncology","Lucknow","Uttar Pradesh"
+"419","Dr. Kavita Sharma","Oncology","Pune","Maharashtra"
+"420","Dr. Shreya Patel","Gynecology","Pune","Maharashtra"
+"421","Dr. Kiran Patel","Orthopedics","Jaipur","Rajasthan"
+"422","Dr. Anil Verma","Pediatrics","Hyderabad","Telangana"
+"423","Dr. Shreya Das","Gynecology","Hyderabad","Telangana"
+"424","Dr. Shreya Patel","Dermatology","Delhi","Delhi"
+"425","Dr. Shreya Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"426","Dr. Rajesh Singh","ENT","Mumbai","Maharashtra"
+"427","Dr. Sunita Singh","Psychiatry","Ahmedabad","Gujarat"
+"428","Dr. Sunita Singh","Oncology","Jaipur","Rajasthan"
+"429","Dr. Rohit Das","Pulmonology","Kolkata","West Bengal"
+"430","Dr. Anita Kumar","Gynecology","Bengaluru","Karnataka"
+"431","Dr. Anita Chopra","Psychiatry","Kolkata","West Bengal"
+"432","Dr. Deepak Singh","General Medicine","Jaipur","Rajasthan"
+"433","Dr. Aarti Das","Pediatrics","Ahmedabad","Gujarat"
+"434","Dr. Priya Yadav","General Medicine","Hyderabad","Telangana"
+"435","Dr. Kiran Patel","Dermatology","Lucknow","Uttar Pradesh"
+"436","Dr. Meena Sharma","Gynecology","Hyderabad","Telangana"
+"437","Dr. Neha Das","Urology","Delhi","Delhi"
+"438","Dr. Neha Singh","Urology","Chennai","Tamil Nadu"
+"439","Dr. Deepak Reddy","Dermatology","Delhi","Delhi"
+"440","Dr. Meena Iyer","General Medicine","Chennai","Tamil Nadu"
+"441","Dr. Ritu Kumar","Pediatrics","Jaipur","Rajasthan"
+"442","Dr. Kiran Patel","ENT","Jaipur","Rajasthan"
+"443","Dr. Priya Chopra","General Medicine","Kolkata","West Bengal"
+"444","Dr. Pooja Das","Dermatology","Ahmedabad","Gujarat"
+"445","Dr. Anil Patel","Oncology","Delhi","Delhi"
+"446","Dr. Kiran Das","Dermatology","Jaipur","Rajasthan"
+"447","Dr. Amit Reddy","General Medicine","Kolkata","West Bengal"
+"448","Dr. Rajesh Yadav","Gynecology","Pune","Maharashtra"
+"449","Dr. Shreya Das","Pediatrics","Kolkata","West Bengal"
+"450","Dr. Shreya Kumar","General Medicine","Mumbai","Maharashtra"
+"451","Dr. Deepak Patel","Neurology","Hyderabad","Telangana"
+"452","Dr. Rohit Das","Pulmonology","Pune","Maharashtra"
+"453","Dr. Suresh Das","ENT","Pune","Maharashtra"
+"454","Dr. Shreya Verma","Dermatology","Jaipur","Rajasthan"
+"455","Dr. Meena Singh","Pulmonology","Kolkata","West Bengal"
+"456","Dr. Suresh Yadav","Pulmonology","Pune","Maharashtra"
+"457","Dr. Rohit Reddy","General Medicine","Delhi","Delhi"
+"458","Dr. Sunil Verma","Pulmonology","Pune","Maharashtra"
+"459","Dr. Suresh Singh","Gynecology","Hyderabad","Telangana"
+"460","Dr. Shreya Sharma","General Medicine","Hyderabad","Telangana"
+"461","Dr. Vijay Singh","Pediatrics","Jaipur","Rajasthan"
+"462","Dr. Aarti Yadav","ENT","Lucknow","Uttar Pradesh"
+"463","Dr. Ritu Iyer","General Medicine","Kolkata","West Bengal"
+"464","Dr. Vijay Reddy","Psychiatry","Bengaluru","Karnataka"
+"465","Dr. Amit Sharma","Oncology","Delhi","Delhi"
+"466","Dr. Amit Iyer","Neurology","Bengaluru","Karnataka"
+"467","Dr. Sunita Reddy","Urology","Pune","Maharashtra"
+"468","Dr. Kavita Chopra","Neurology","Delhi","Delhi"
+"469","Dr. Vijay Chopra","Neurology","Hyderabad","Telangana"
+"470","Dr. Sunita Chopra","Orthopedics","Jaipur","Rajasthan"
+"471","Dr. Vijay Das","ENT","Kolkata","West Bengal"
+"472","Dr. Aarti Das","Psychiatry","Kolkata","West Bengal"
+"473","Dr. Anita Yadav","ENT","Delhi","Delhi"
+"474","Dr. Suresh Verma","Dermatology","Pune","Maharashtra"
+"475","Dr. Suresh Kumar","Gynecology","Hyderabad","Telangana"
+"476","Dr. Amit Yadav","Pediatrics","Pune","Maharashtra"
+"477","Dr. Prakash Das","Gastroenterology","Chennai","Tamil Nadu"
+"478","Dr. Sunita Singh","Cardiology","Delhi","Delhi"
+"479","Dr. Kavita Iyer","Pediatrics","Bengaluru","Karnataka"
+"480","Dr. Rajesh Chopra","Gynecology","Delhi","Delhi"
+"481","Dr. Aarti Chopra","Pulmonology","Lucknow","Uttar Pradesh"
+"482","Dr. Prakash Iyer","Orthopedics","Kolkata","West Bengal"
+"483","Dr. Amit Chopra","Gynecology","Bengaluru","Karnataka"
+"484","Dr. Aarti Das","Psychiatry","Lucknow","Uttar Pradesh"
+"485","Dr. Sunita Chopra","Orthopedics","Delhi","Delhi"
+"486","Dr. Meena Patel","Cardiology","Delhi","Delhi"
+"487","Dr. Vijay Kumar","Dermatology","Lucknow","Uttar Pradesh"
+"488","Dr. Ritu Chopra","ENT","Jaipur","Rajasthan"
+"489","Dr. Rajesh Sharma","Neurology","Ahmedabad","Gujarat"
+"490","Dr. Neha Iyer","Psychiatry","Lucknow","Uttar Pradesh"
+"491","Dr. Pooja Reddy","Gynecology","Delhi","Delhi"
+"492","Dr. Amit Verma","Dermatology","Chennai","Tamil Nadu"
+"493","Dr. Rajesh Patel","Gastroenterology","Chennai","Tamil Nadu"
+"494","Dr. Meena Patel","Gastroenterology","Delhi","Delhi"
+"495","Dr. Priya Kumar","Orthopedics","Mumbai","Maharashtra"
+"496","Dr. Shreya Kumar","Dermatology","Ahmedabad","Gujarat"
+"497","Dr. Rajesh Das","Gastroenterology","Hyderabad","Telangana"
+"498","Dr. Rohit Yadav","Urology","Ahmedabad","Gujarat"
+"499","Dr. Shreya Singh","General Medicine","Hyderabad","Telangana"
+"500","Dr. Meena Reddy","Dermatology","Bengaluru","Karnataka"
+"501","Dr. Sunita Singh","Gastroenterology","Pune","Maharashtra"
+"502","Dr. Meena Verma","Cardiology","Ahmedabad","Gujarat"
+"503","Dr. Kavita Reddy","Gynecology","Ahmedabad","Gujarat"
+"504","Dr. Anita Yadav","Psychiatry","Lucknow","Uttar Pradesh"
+"505","Dr. Meena Chopra","Urology","Kolkata","West Bengal"
+"506","Dr. Priya Iyer","Pulmonology","Lucknow","Uttar Pradesh"
+"507","Dr. Aarti Patel","Urology","Chennai","Tamil Nadu"
+"508","Dr. Sunita Singh","Pulmonology","Pune","Maharashtra"
+"509","Dr. Suresh Iyer","ENT","Kolkata","West Bengal"
+"510","Dr. Kavita Kumar","Dermatology","Delhi","Delhi"
+"511","Dr. Suresh Yadav","Oncology","Jaipur","Rajasthan"
+"512","Dr. Sunita Patel","Gynecology","Lucknow","Uttar Pradesh"
+"513","Dr. Aarti Patel","Gastroenterology","Chennai","Tamil Nadu"
+"514","Dr. Sunita Yadav","Neurology","Kolkata","West Bengal"
+"515","Dr. Pooja Patel","Pulmonology","Chennai","Tamil Nadu"
+"516","Dr. Prakash Sharma","Dermatology","Hyderabad","Telangana"
+"517","Dr. Sunil Kumar","Pulmonology","Ahmedabad","Gujarat"
+"518","Dr. Priya Verma","Orthopedics","Jaipur","Rajasthan"
+"519","Dr. Pooja Patel","ENT","Mumbai","Maharashtra"
+"520","Dr. Pooja Patel","Dermatology","Kolkata","West Bengal"
+"521","Dr. Aarti Singh","Cardiology","Bengaluru","Karnataka"
+"522","Dr. Sunita Yadav","Cardiology","Delhi","Delhi"
+"523","Dr. Rajesh Chopra","Gynecology","Chennai","Tamil Nadu"
+"524","Dr. Ritu Sharma","Pulmonology","Ahmedabad","Gujarat"
+"525","Dr. Rohit Yadav","Dermatology","Delhi","Delhi"
+"526","Dr. Kavita Singh","Urology","Delhi","Delhi"
+"527","Dr. Priya Chopra","Cardiology","Chennai","Tamil Nadu"
+"528","Dr. Meena Kumar","Psychiatry","Mumbai","Maharashtra"
+"529","Dr. Amit Singh","Psychiatry","Mumbai","Maharashtra"
+"530","Dr. Kavita Kumar","General Medicine","Hyderabad","Telangana"
+"531","Dr. Deepak Iyer","General Medicine","Ahmedabad","Gujarat"
+"532","Dr. Kiran Yadav","Pediatrics","Hyderabad","Telangana"
+"533","Dr. Pooja Iyer","Urology","Bengaluru","Karnataka"
+"534","Dr. Vijay Verma","Neurology","Kolkata","West Bengal"
+"535","Dr. Pooja Patel","Dermatology","Lucknow","Uttar Pradesh"
+"536","Dr. Shreya Sharma","Pulmonology","Mumbai","Maharashtra"
+"537","Dr. Suresh Kumar","Gynecology","Mumbai","Maharashtra"
+"538","Dr. Suresh Verma","Oncology","Kolkata","West Bengal"
+"539","Dr. Sunita Kumar","Gynecology","Bengaluru","Karnataka"
+"540","Dr. Kiran Patel","Gynecology","Mumbai","Maharashtra"
+"541","Dr. Suresh Reddy","Gastroenterology","Delhi","Delhi"
+"542","Dr. Ritu Kumar","Pulmonology","Lucknow","Uttar Pradesh"
+"543","Dr. Suresh Patel","Orthopedics","Hyderabad","Telangana"
+"544","Dr. Suresh Reddy","Neurology","Bengaluru","Karnataka"
+"545","Dr. Pooja Iyer","ENT","Chennai","Tamil Nadu"
+"546","Dr. Meena Yadav","Gastroenterology","Mumbai","Maharashtra"
+"547","Dr. Kiran Das","Orthopedics","Mumbai","Maharashtra"
+"548","Dr. Anita Singh","Orthopedics","Lucknow","Uttar Pradesh"
+"549","Dr. Anita Verma","Gynecology","Mumbai","Maharashtra"
+"550","Dr. Kavita Verma","Pulmonology","Mumbai","Maharashtra"
+"551","Dr. Neha Reddy","Cardiology","Ahmedabad","Gujarat"
+"552","Dr. Prakash Reddy","Urology","Pune","Maharashtra"
+"553","Dr. Kiran Iyer","Psychiatry","Mumbai","Maharashtra"
+"554","Dr. Prakash Sharma","Oncology","Ahmedabad","Gujarat"
+"555","Dr. Prakash Kumar","Pediatrics","Mumbai","Maharashtra"
+"556","Dr. Priya Kumar","Neurology","Kolkata","West Bengal"
+"557","Dr. Anil Iyer","Gynecology","Jaipur","Rajasthan"
+"558","Dr. Priya Sharma","ENT","Ahmedabad","Gujarat"
+"559","Dr. Shreya Sharma","Urology","Chennai","Tamil Nadu"
+"560","Dr. Ritu Iyer","ENT","Mumbai","Maharashtra"
+"561","Dr. Neha Verma","General Medicine","Delhi","Delhi"
+"562","Dr. Anil Iyer","ENT","Bengaluru","Karnataka"
+"563","Dr. Aarti Patel","Gynecology","Chennai","Tamil Nadu"
+"564","Dr. Kavita Verma","Pulmonology","Kolkata","West Bengal"
+"565","Dr. Suresh Yadav","Pulmonology","Hyderabad","Telangana"
+"566","Dr. Neha Sharma","Dermatology","Delhi","Delhi"
+"567","Dr. Aarti Chopra","Gynecology","Jaipur","Rajasthan"
+"568","Dr. Meena Yadav","Pulmonology","Jaipur","Rajasthan"
+"569","Dr. Neha Patel","Orthopedics","Hyderabad","Telangana"
+"570","Dr. Suresh Chopra","Pulmonology","Mumbai","Maharashtra"
+"571","Dr. Suresh Iyer","Neurology","Lucknow","Uttar Pradesh"
+"572","Dr. Rajesh Chopra","ENT","Bengaluru","Karnataka"
+"573","Dr. Amit Sharma","Urology","Ahmedabad","Gujarat"
+"574","Dr. Meena Chopra","Orthopedics","Hyderabad","Telangana"
+"575","Dr. Rajesh Verma","Gastroenterology","Pune","Maharashtra"
+"576","Dr. Rajesh Verma","Dermatology","Bengaluru","Karnataka"
+"577","Dr. Sunita Chopra","Neurology","Kolkata","West Bengal"
+"578","Dr. Shreya Verma","Gynecology","Hyderabad","Telangana"
+"579","Dr. Anita Kumar","Pediatrics","Bengaluru","Karnataka"
+"580","Dr. Aarti Chopra","Dermatology","Bengaluru","Karnataka"
+"581","Dr. Ritu Chopra","General Medicine","Delhi","Delhi"
+"582","Dr. Sunita Yadav","Gynecology","Pune","Maharashtra"
+"583","Dr. Sunil Sharma","Gastroenterology","Jaipur","Rajasthan"
+"584","Dr. Vijay Verma","Gastroenterology","Jaipur","Rajasthan"
+"585","Dr. Shreya Kumar","Gastroenterology","Mumbai","Maharashtra"
+"586","Dr. Deepak Singh","Pulmonology","Hyderabad","Telangana"
+"587","Dr. Vijay Iyer","Orthopedics","Jaipur","Rajasthan"
+"588","Dr. Rohit Verma","Pulmonology","Kolkata","West Bengal"
+"589","Dr. Priya Singh","Neurology","Pune","Maharashtra"
+"590","Dr. Priya Kumar","Cardiology","Chennai","Tamil Nadu"
+"591","Dr. Priya Reddy","Dermatology","Mumbai","Maharashtra"
+"592","Dr. Kiran Singh","Pulmonology","Hyderabad","Telangana"
+"593","Dr. Kavita Verma","Urology","Hyderabad","Telangana"
+"594","Dr. Suresh Singh","Neurology","Chennai","Tamil Nadu"
+"595","Dr. Sunita Reddy","Gynecology","Hyderabad","Telangana"
+"596","Dr. Prakash Yadav","Urology","Bengaluru","Karnataka"
+"597","Dr. Pooja Chopra","Oncology","Lucknow","Uttar Pradesh"
+"598","Dr. Prakash Kumar","Gynecology","Pune","Maharashtra"
+"599","Dr. Priya Verma","Pulmonology","Mumbai","Maharashtra"
+"600","Dr. Deepak Das","Neurology","Mumbai","Maharashtra"
+"601","Dr. Rohit Sharma","Orthopedics","Ahmedabad","Gujarat"
+"602","Dr. Amit Sharma","General Medicine","Hyderabad","Telangana"
+"603","Dr. Priya Verma","General Medicine","Mumbai","Maharashtra"
+"604","Dr. Deepak Kumar","Gynecology","Hyderabad","Telangana"
+"605","Dr. Aarti Chopra","Orthopedics","Delhi","Delhi"
+"606","Dr. Rajesh Chopra","ENT","Hyderabad","Telangana"
+"607","Dr. Rohit Patel","Cardiology","Mumbai","Maharashtra"
+"608","Dr. Anita Kumar","Orthopedics","Delhi","Delhi"
+"609","Dr. Anil Patel","Gynecology","Ahmedabad","Gujarat"
+"610","Dr. Deepak Reddy","Pediatrics","Pune","Maharashtra"
+"611","Dr. Amit Chopra","Pulmonology","Ahmedabad","Gujarat"
+"612","Dr. Sunil Patel","Psychiatry","Kolkata","West Bengal"
+"613","Dr. Anita Sharma","Psychiatry","Chennai","Tamil Nadu"
+"614","Dr. Amit Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"615","Dr. Meena Sharma","Psychiatry","Chennai","Tamil Nadu"
+"616","Dr. Deepak Chopra","Psychiatry","Chennai","Tamil Nadu"
+"617","Dr. Vijay Reddy","Oncology","Mumbai","Maharashtra"
+"618","Dr. Suresh Yadav","Psychiatry","Jaipur","Rajasthan"
+"619","Dr. Aarti Verma","Pediatrics","Chennai","Tamil Nadu"
+"620","Dr. Priya Verma","Pulmonology","Hyderabad","Telangana"
+"621","Dr. Meena Singh","Cardiology","Jaipur","Rajasthan"
+"622","Dr. Aarti Das","Oncology","Jaipur","Rajasthan"
+"623","Dr. Sunil Iyer","Dermatology","Delhi","Delhi"
+"624","Dr. Kavita Iyer","Oncology","Chennai","Tamil Nadu"
+"625","Dr. Meena Kumar","Gastroenterology","Bengaluru","Karnataka"
+"626","Dr. Aarti Das","Urology","Bengaluru","Karnataka"
+"627","Dr. Deepak Sharma","ENT","Bengaluru","Karnataka"
+"628","Dr. Rajesh Reddy","Neurology","Delhi","Delhi"
+"629","Dr. Rajesh Iyer","General Medicine","Lucknow","Uttar Pradesh"
+"630","Dr. Priya Kumar","Gastroenterology","Hyderabad","Telangana"
+"631","Dr. Anil Iyer","Cardiology","Bengaluru","Karnataka"
+"632","Dr. Rohit Yadav","Gastroenterology","Delhi","Delhi"
+"633","Dr. Aarti Iyer","Psychiatry","Lucknow","Uttar Pradesh"
+"634","Dr. Kiran Sharma","Gynecology","Delhi","Delhi"
+"635","Dr. Ritu Singh","Pulmonology","Delhi","Delhi"
+"636","Dr. Anita Reddy","Pulmonology","Ahmedabad","Gujarat"
+"637","Dr. Neha Kumar","Gastroenterology","Chennai","Tamil Nadu"
+"638","Dr. Prakash Verma","Gynecology","Hyderabad","Telangana"
+"639","Dr. Priya Chopra","ENT","Pune","Maharashtra"
+"640","Dr. Priya Yadav","Pediatrics","Mumbai","Maharashtra"
+"641","Dr. Anil Singh","Pulmonology","Ahmedabad","Gujarat"
+"642","Dr. Neha Patel","Gastroenterology","Mumbai","Maharashtra"
+"643","Dr. Deepak Das","Dermatology","Kolkata","West Bengal"
+"644","Dr. Sunil Reddy","Orthopedics","Delhi","Delhi"
+"645","Dr. Amit Sharma","General Medicine","Kolkata","West Bengal"
+"646","Dr. Rajesh Sharma","Orthopedics","Hyderabad","Telangana"
+"647","Dr. Meena Iyer","Psychiatry","Kolkata","West Bengal"
+"648","Dr. Anil Verma","Psychiatry","Delhi","Delhi"
+"649","Dr. Kiran Iyer","Urology","Lucknow","Uttar Pradesh"
+"650","Dr. Suresh Chopra","Neurology","Bengaluru","Karnataka"
+"651","Dr. Sunil Singh","Gastroenterology","Jaipur","Rajasthan"
+"652","Dr. Ritu Sharma","Psychiatry","Hyderabad","Telangana"
+"653","Dr. Rajesh Singh","Cardiology","Hyderabad","Telangana"
+"654","Dr. Deepak Patel","Gastroenterology","Kolkata","West Bengal"
+"655","Dr. Sunil Patel","Dermatology","Bengaluru","Karnataka"
+"656","Dr. Rajesh Chopra","Dermatology","Jaipur","Rajasthan"
+"657","Dr. Priya Yadav","Gynecology","Kolkata","West Bengal"
+"658","Dr. Ritu Patel","Oncology","Hyderabad","Telangana"
+"659","Dr. Anil Iyer","Gastroenterology","Bengaluru","Karnataka"
+"660","Dr. Sunil Chopra","Gastroenterology","Chennai","Tamil Nadu"
+"661","Dr. Prakash Das","Pediatrics","Ahmedabad","Gujarat"
+"662","Dr. Neha Patel","Dermatology","Delhi","Delhi"
+"663","Dr. Prakash Kumar","Oncology","Delhi","Delhi"
+"664","Dr. Sunita Chopra","ENT","Bengaluru","Karnataka"
+"665","Dr. Pooja Das","Oncology","Lucknow","Uttar Pradesh"
+"666","Dr. Neha Verma","Pediatrics","Chennai","Tamil Nadu"
+"667","Dr. Meena Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"668","Dr. Anita Patel","Pulmonology","Delhi","Delhi"
+"669","Dr. Sunil Kumar","Cardiology","Lucknow","Uttar Pradesh"
+"670","Dr. Neha Reddy","Neurology","Kolkata","West Bengal"
+"671","Dr. Meena Iyer","General Medicine","Delhi","Delhi"
+"672","Dr. Suresh Reddy","Psychiatry","Kolkata","West Bengal"
+"673","Dr. Amit Chopra","Gynecology","Kolkata","West Bengal"
+"674","Dr. Anita Das","Dermatology","Bengaluru","Karnataka"
+"675","Dr. Suresh Yadav","ENT","Jaipur","Rajasthan"
+"676","Dr. Rohit Yadav","Gastroenterology","Lucknow","Uttar Pradesh"
+"677","Dr. Rajesh Yadav","ENT","Hyderabad","Telangana"
+"678","Dr. Meena Yadav","Pediatrics","Kolkata","West Bengal"
+"679","Dr. Sunil Patel","Neurology","Lucknow","Uttar Pradesh"
+"680","Dr. Amit Singh","Psychiatry","Lucknow","Uttar Pradesh"
+"681","Dr. Aarti Chopra","Pediatrics","Pune","Maharashtra"
+"682","Dr. Kavita Das","Cardiology","Chennai","Tamil Nadu"
+"683","Dr. Priya Verma","Dermatology","Ahmedabad","Gujarat"
+"684","Dr. Prakash Sharma","ENT","Pune","Maharashtra"
+"685","Dr. Aarti Das","Urology","Lucknow","Uttar Pradesh"
+"686","Dr. Neha Singh","General Medicine","Hyderabad","Telangana"
+"687","Dr. Sunil Kumar","Gynecology","Jaipur","Rajasthan"
+"688","Dr. Shreya Chopra","Pediatrics","Bengaluru","Karnataka"
+"689","Dr. Sunil Yadav","Pulmonology","Jaipur","Rajasthan"
+"690","Dr. Rohit Patel","Orthopedics","Chennai","Tamil Nadu"
+"691","Dr. Shreya Reddy","Oncology","Jaipur","Rajasthan"
+"692","Dr. Deepak Iyer","ENT","Bengaluru","Karnataka"
+"693","Dr. Priya Das","Oncology","Kolkata","West Bengal"
+"694","Dr. Aarti Chopra","General Medicine","Kolkata","West Bengal"
+"695","Dr. Neha Yadav","Oncology","Lucknow","Uttar Pradesh"
+"696","Dr. Amit Yadav","Pediatrics","Bengaluru","Karnataka"
+"697","Dr. Prakash Iyer","Urology","Pune","Maharashtra"
+"698","Dr. Prakash Iyer","Urology","Delhi","Delhi"
+"699","Dr. Shreya Reddy","Gynecology","Chennai","Tamil Nadu"
+"700","Dr. Anita Kumar","ENT","Mumbai","Maharashtra"
+"701","Dr. Aarti Verma","Oncology","Hyderabad","Telangana"
+"702","Dr. Aarti Patel","ENT","Pune","Maharashtra"
+"703","Dr. Sunil Iyer","ENT","Pune","Maharashtra"
+"704","Dr. Anil Chopra","ENT","Pune","Maharashtra"
+"705","Dr. Ritu Singh","Psychiatry","Mumbai","Maharashtra"
+"706","Dr. Kavita Yadav","Pulmonology","Kolkata","West Bengal"
+"707","Dr. Rohit Yadav","ENT","Hyderabad","Telangana"
+"708","Dr. Meena Das","Oncology","Bengaluru","Karnataka"
+"709","Dr. Prakash Iyer","Oncology","Ahmedabad","Gujarat"
+"710","Dr. Neha Kumar","Pulmonology","Kolkata","West Bengal"
+"711","Dr. Sunil Kumar","Pediatrics","Chennai","Tamil Nadu"
+"712","Dr. Shreya Yadav","Cardiology","Delhi","Delhi"
+"713","Dr. Priya Das","Gynecology","Bengaluru","Karnataka"
+"714","Dr. Prakash Patel","Gynecology","Ahmedabad","Gujarat"
+"715","Dr. Deepak Singh","General Medicine","Kolkata","West Bengal"
+"716","Dr. Aarti Verma","General Medicine","Pune","Maharashtra"
+"717","Dr. Rajesh Yadav","Neurology","Bengaluru","Karnataka"
+"718","Dr. Anita Sharma","ENT","Pune","Maharashtra"
+"719","Dr. Vijay Patel","Oncology","Hyderabad","Telangana"
+"720","Dr. Shreya Sharma","ENT","Delhi","Delhi"
+"721","Dr. Anita Singh","Cardiology","Lucknow","Uttar Pradesh"
+"722","Dr. Ritu Iyer","Orthopedics","Delhi","Delhi"
+"723","Dr. Anita Das","ENT","Delhi","Delhi"
+"724","Dr. Vijay Verma","Neurology","Jaipur","Rajasthan"
+"725","Dr. Sunil Das","Neurology","Pune","Maharashtra"
+"726","Dr. Kavita Reddy","Gynecology","Jaipur","Rajasthan"
+"727","Dr. Sunita Yadav","Urology","Lucknow","Uttar Pradesh"
+"728","Dr. Priya Chopra","Gastroenterology","Ahmedabad","Gujarat"
+"729","Dr. Suresh Kumar","Psychiatry","Chennai","Tamil Nadu"
+"730","Dr. Amit Reddy","Pulmonology","Ahmedabad","Gujarat"
+"731","Dr. Neha Yadav","Cardiology","Hyderabad","Telangana"
+"732","Dr. Rajesh Patel","Oncology","Kolkata","West Bengal"
+"733","Dr. Meena Kumar","Gynecology","Bengaluru","Karnataka"
+"734","Dr. Amit Sharma","Psychiatry","Mumbai","Maharashtra"
+"735","Dr. Ritu Singh","Cardiology","Chennai","Tamil Nadu"
+"736","Dr. Kiran Reddy","Cardiology","Jaipur","Rajasthan"
+"737","Dr. Deepak Kumar","Urology","Bengaluru","Karnataka"
+"738","Dr. Anita Sharma","Pulmonology","Jaipur","Rajasthan"
+"739","Dr. Meena Singh","General Medicine","Chennai","Tamil Nadu"
+"740","Dr. Deepak Patel","Oncology","Bengaluru","Karnataka"
+"741","Dr. Shreya Iyer","Pulmonology","Mumbai","Maharashtra"
+"742","Dr. Ritu Iyer","Gastroenterology","Ahmedabad","Gujarat"
+"743","Dr. Vijay Iyer","Oncology","Chennai","Tamil Nadu"
+"744","Dr. Kavita Reddy","General Medicine","Bengaluru","Karnataka"
+"745","Dr. Aarti Yadav","Gynecology","Ahmedabad","Gujarat"
+"746","Dr. Prakash Chopra","ENT","Ahmedabad","Gujarat"
+"747","Dr. Deepak Reddy","Gynecology","Hyderabad","Telangana"
+"748","Dr. Anil Das","Gastroenterology","Ahmedabad","Gujarat"
+"749","Dr. Meena Verma","Cardiology","Kolkata","West Bengal"
+"750","Dr. Shreya Chopra","Orthopedics","Delhi","Delhi"
+"751","Dr. Vijay Singh","Pediatrics","Hyderabad","Telangana"
+"752","Dr. Vijay Iyer","General Medicine","Chennai","Tamil Nadu"
+"753","Dr. Anita Iyer","Cardiology","Chennai","Tamil Nadu"
+"754","Dr. Kavita Patel","Cardiology","Pune","Maharashtra"
+"755","Dr. Rajesh Reddy","Psychiatry","Bengaluru","Karnataka"
+"756","Dr. Priya Reddy","Cardiology","Jaipur","Rajasthan"
+"757","Dr. Suresh Reddy","Pulmonology","Ahmedabad","Gujarat"
+"758","Dr. Suresh Kumar","General Medicine","Pune","Maharashtra"
+"759","Dr. Sunil Das","Pediatrics","Jaipur","Rajasthan"
+"760","Dr. Sunita Yadav","General Medicine","Jaipur","Rajasthan"
+"761","Dr. Priya Sharma","Gynecology","Ahmedabad","Gujarat"
+"762","Dr. Meena Sharma","Pediatrics","Kolkata","West Bengal"
+"763","Dr. Vijay Iyer","Gastroenterology","Kolkata","West Bengal"
+"764","Dr. Anil Verma","Psychiatry","Pune","Maharashtra"
+"765","Dr. Anil Verma","Pediatrics","Lucknow","Uttar Pradesh"
+"766","Dr. Shreya Yadav","Gynecology","Mumbai","Maharashtra"
+"767","Dr. Anita Kumar","Orthopedics","Hyderabad","Telangana"
+"768","Dr. Rajesh Patel","Pediatrics","Kolkata","West Bengal"
+"769","Dr. Kavita Chopra","General Medicine","Jaipur","Rajasthan"
+"770","Dr. Shreya Singh","Dermatology","Pune","Maharashtra"
+"771","Dr. Suresh Verma","Orthopedics","Hyderabad","Telangana"
+"772","Dr. Amit Iyer","Gynecology","Ahmedabad","Gujarat"
+"773","Dr. Rohit Yadav","Psychiatry","Kolkata","West Bengal"
+"774","Dr. Kavita Patel","Urology","Kolkata","West Bengal"
+"775","Dr. Meena Singh","Pulmonology","Chennai","Tamil Nadu"
+"776","Dr. Aarti Das","Pulmonology","Jaipur","Rajasthan"
+"777","Dr. Anil Patel","Psychiatry","Ahmedabad","Gujarat"
+"778","Dr. Rohit Verma","Cardiology","Hyderabad","Telangana"
+"779","Dr. Amit Yadav","Pulmonology","Chennai","Tamil Nadu"
+"780","Dr. Rohit Singh","Pediatrics","Jaipur","Rajasthan"
+"781","Dr. Shreya Kumar","ENT","Kolkata","West Bengal"
+"782","Dr. Ritu Verma","Gastroenterology","Delhi","Delhi"
+"783","Dr. Priya Chopra","Neurology","Ahmedabad","Gujarat"
+"784","Dr. Deepak Chopra","Dermatology","Chennai","Tamil Nadu"
+"785","Dr. Sunita Iyer","Urology","Mumbai","Maharashtra"
+"786","Dr. Priya Iyer","Gastroenterology","Mumbai","Maharashtra"
+"787","Dr. Priya Sharma","ENT","Pune","Maharashtra"
+"788","Dr. Aarti Yadav","Neurology","Bengaluru","Karnataka"
+"789","Dr. Anita Sharma","General Medicine","Hyderabad","Telangana"
+"790","Dr. Pooja Kumar","Cardiology","Chennai","Tamil Nadu"
+"791","Dr. Prakash Yadav","ENT","Hyderabad","Telangana"
+"792","Dr. Anita Chopra","Gastroenterology","Hyderabad","Telangana"
+"793","Dr. Anita Patel","Pediatrics","Hyderabad","Telangana"
+"794","Dr. Anita Singh","ENT","Delhi","Delhi"
+"795","Dr. Rajesh Kumar","Pulmonology","Hyderabad","Telangana"
+"796","Dr. Kavita Verma","Dermatology","Kolkata","West Bengal"
+"797","Dr. Shreya Kumar","Dermatology","Lucknow","Uttar Pradesh"
+"798","Dr. Sunil Sharma","Pediatrics","Bengaluru","Karnataka"
+"799","Dr. Pooja Reddy","ENT","Delhi","Delhi"
+"800","Dr. Kiran Iyer","Gastroenterology","Pune","Maharashtra"
+"801","Dr. Kiran Chopra","Neurology","Ahmedabad","Gujarat"
+"802","Dr. Vijay Kumar","Orthopedics","Pune","Maharashtra"
+"803","Dr. Sunil Kumar","Neurology","Lucknow","Uttar Pradesh"
+"804","Dr. Shreya Chopra","ENT","Jaipur","Rajasthan"
+"805","Dr. Sunil Sharma","General Medicine","Bengaluru","Karnataka"
+"806","Dr. Kiran Kumar","Dermatology","Jaipur","Rajasthan"
+"807","Dr. Anita Sharma","Gynecology","Jaipur","Rajasthan"
+"808","Dr. Shreya Kumar","ENT","Pune","Maharashtra"
+"809","Dr. Priya Yadav","Gynecology","Kolkata","West Bengal"
+"810","Dr. Deepak Yadav","ENT","Jaipur","Rajasthan"
+"811","Dr. Neha Kumar","Urology","Lucknow","Uttar Pradesh"
+"812","Dr. Sunil Reddy","Neurology","Ahmedabad","Gujarat"
+"813","Dr. Ritu Sharma","Cardiology","Jaipur","Rajasthan"
+"814","Dr. Suresh Verma","Dermatology","Delhi","Delhi"
+"815","Dr. Aarti Singh","Dermatology","Hyderabad","Telangana"
+"816","Dr. Ritu Verma","Orthopedics","Bengaluru","Karnataka"
+"817","Dr. Ritu Singh","Pediatrics","Bengaluru","Karnataka"
+"818","Dr. Deepak Chopra","Psychiatry","Delhi","Delhi"
+"819","Dr. Rajesh Verma","Oncology","Delhi","Delhi"
+"820","Dr. Anita Das","ENT","Lucknow","Uttar Pradesh"
+"821","Dr. Neha Iyer","Oncology","Pune","Maharashtra"
+"822","Dr. Shreya Singh","Neurology","Ahmedabad","Gujarat"
+"823","Dr. Pooja Reddy","Oncology","Pune","Maharashtra"
+"824","Dr. Meena Verma","Gynecology","Jaipur","Rajasthan"
+"825","Dr. Sunil Kumar","Cardiology","Chennai","Tamil Nadu"
+"826","Dr. Pooja Das","Cardiology","Lucknow","Uttar Pradesh"
+"827","Dr. Shreya Das","ENT","Hyderabad","Telangana"
+"828","Dr. Neha Verma","ENT","Pune","Maharashtra"
+"829","Dr. Rohit Patel","Cardiology","Chennai","Tamil Nadu"
+"830","Dr. Aarti Iyer","Gastroenterology","Lucknow","Uttar Pradesh"
+"831","Dr. Neha Sharma","ENT","Lucknow","Uttar Pradesh"
+"832","Dr. Neha Verma","Psychiatry","Delhi","Delhi"
+"833","Dr. Suresh Sharma","Gastroenterology","Hyderabad","Telangana"
+"834","Dr. Sunil Iyer","Oncology","Delhi","Delhi"
+"835","Dr. Priya Verma","General Medicine","Bengaluru","Karnataka"
+"836","Dr. Anita Iyer","Neurology","Delhi","Delhi"
+"837","Dr. Ritu Singh","Gastroenterology","Bengaluru","Karnataka"
+"838","Dr. Shreya Yadav","Dermatology","Chennai","Tamil Nadu"
+"839","Dr. Vijay Iyer","Pediatrics","Mumbai","Maharashtra"
+"840","Dr. Meena Iyer","General Medicine","Mumbai","Maharashtra"
+"841","Dr. Anita Singh","Gastroenterology","Hyderabad","Telangana"
+"842","Dr. Rajesh Chopra","Dermatology","Kolkata","West Bengal"
+"843","Dr. Amit Sharma","Urology","Lucknow","Uttar Pradesh"
+"844","Dr. Prakash Patel","Psychiatry","Chennai","Tamil Nadu"
+"845","Dr. Shreya Reddy","Orthopedics","Kolkata","West Bengal"
+"846","Dr. Anita Das","Oncology","Hyderabad","Telangana"
+"847","Dr. Neha Verma","Gastroenterology","Mumbai","Maharashtra"
+"848","Dr. Kavita Yadav","Oncology","Kolkata","West Bengal"
+"849","Dr. Kiran Reddy","Urology","Jaipur","Rajasthan"
+"850","Dr. Anil Singh","Urology","Kolkata","West Bengal"
+"851","Dr. Aarti Chopra","Gynecology","Chennai","Tamil Nadu"
+"852","Dr. Neha Patel","Urology","Bengaluru","Karnataka"
+"853","Dr. Sunil Das","Cardiology","Lucknow","Uttar Pradesh"
+"854","Dr. Prakash Kumar","General Medicine","Bengaluru","Karnataka"
+"855","Dr. Anita Singh","Orthopedics","Pune","Maharashtra"
+"856","Dr. Pooja Kumar","Psychiatry","Pune","Maharashtra"
+"857","Dr. Kiran Singh","ENT","Hyderabad","Telangana"
+"858","Dr. Amit Yadav","Gynecology","Bengaluru","Karnataka"
+"859","Dr. Ritu Singh","Psychiatry","Kolkata","West Bengal"
+"860","Dr. Meena Patel","Psychiatry","Pune","Maharashtra"
+"861","Dr. Priya Reddy","Urology","Ahmedabad","Gujarat"
+"862","Dr. Aarti Sharma","Dermatology","Ahmedabad","Gujarat"
+"863","Dr. Anil Chopra","Psychiatry","Pune","Maharashtra"
+"864","Dr. Aarti Verma","Oncology","Bengaluru","Karnataka"
+"865","Dr. Rohit Yadav","Orthopedics","Lucknow","Uttar Pradesh"
+"866","Dr. Priya Sharma","Pediatrics","Jaipur","Rajasthan"
+"867","Dr. Prakash Yadav","Oncology","Chennai","Tamil Nadu"
+"868","Dr. Kavita Verma","Oncology","Ahmedabad","Gujarat"
+"869","Dr. Amit Yadav","General Medicine","Kolkata","West Bengal"
+"870","Dr. Meena Yadav","Dermatology","Ahmedabad","Gujarat"
+"871","Dr. Rohit Patel","General Medicine","Pune","Maharashtra"
+"872","Dr. Rajesh Kumar","Neurology","Jaipur","Rajasthan"
+"873","Dr. Aarti Chopra","Gastroenterology","Kolkata","West Bengal"
+"874","Dr. Meena Singh","Urology","Bengaluru","Karnataka"
+"875","Dr. Ritu Sharma","Gynecology","Jaipur","Rajasthan"
+"876","Dr. Ritu Das","Pulmonology","Hyderabad","Telangana"
+"877","Dr. Suresh Verma","General Medicine","Lucknow","Uttar Pradesh"
+"878","Dr. Deepak Patel","Pulmonology","Chennai","Tamil Nadu"
+"879","Dr. Anil Reddy","General Medicine","Mumbai","Maharashtra"
+"880","Dr. Aarti Chopra","Pulmonology","Mumbai","Maharashtra"
+"881","Dr. Vijay Yadav","Neurology","Ahmedabad","Gujarat"
+"882","Dr. Kavita Reddy","Psychiatry","Ahmedabad","Gujarat"
+"883","Dr. Shreya Chopra","Urology","Ahmedabad","Gujarat"
+"884","Dr. Shreya Singh","Urology","Bengaluru","Karnataka"
+"885","Dr. Suresh Singh","General Medicine","Ahmedabad","Gujarat"
+"886","Dr. Priya Yadav","Psychiatry","Chennai","Tamil Nadu"
+"887","Dr. Amit Verma","Gynecology","Bengaluru","Karnataka"
+"888","Dr. Prakash Singh","Dermatology","Ahmedabad","Gujarat"
+"889","Dr. Amit Das","ENT","Ahmedabad","Gujarat"
+"890","Dr. Amit Singh","ENT","Hyderabad","Telangana"
+"891","Dr. Pooja Kumar","General Medicine","Kolkata","West Bengal"
+"892","Dr. Prakash Sharma","Pulmonology","Pune","Maharashtra"
+"893","Dr. Amit Das","Neurology","Mumbai","Maharashtra"
+"894","Dr. Rohit Verma","Psychiatry","Chennai","Tamil Nadu"
+"895","Dr. Aarti Sharma","Cardiology","Lucknow","Uttar Pradesh"
+"896","Dr. Priya Yadav","Pediatrics","Lucknow","Uttar Pradesh"
+"897","Dr. Priya Kumar","Gynecology","Hyderabad","Telangana"
+"898","Dr. Sunita Sharma","Pediatrics","Kolkata","West Bengal"
+"899","Dr. Aarti Sharma","Urology","Hyderabad","Telangana"
+"900","Dr. Ritu Reddy","Pediatrics","Lucknow","Uttar Pradesh"
+"901","Dr. Vijay Verma","Gynecology","Jaipur","Rajasthan"
+"902","Dr. Pooja Chopra","ENT","Hyderabad","Telangana"
+"903","Dr. Neha Reddy","General Medicine","Kolkata","West Bengal"
+"904","Dr. Shreya Iyer","Orthopedics","Hyderabad","Telangana"
+"905","Dr. Priya Yadav","Neurology","Mumbai","Maharashtra"
+"906","Dr. Suresh Patel","Oncology","Hyderabad","Telangana"
+"907","Dr. Anita Das","Neurology","Mumbai","Maharashtra"
+"908","Dr. Suresh Verma","General Medicine","Bengaluru","Karnataka"
+"909","Dr. Amit Iyer","Dermatology","Kolkata","West Bengal"
+"910","Dr. Amit Yadav","General Medicine","Delhi","Delhi"
+"911","Dr. Kavita Verma","Pediatrics","Bengaluru","Karnataka"
+"912","Dr. Priya Singh","Psychiatry","Lucknow","Uttar Pradesh"
+"913","Dr. Neha Yadav","Pediatrics","Hyderabad","Telangana"
+"914","Dr. Rohit Yadav","Pediatrics","Kolkata","West Bengal"
+"915","Dr. Sunita Yadav","Orthopedics","Lucknow","Uttar Pradesh"
+"916","Dr. Pooja Kumar","Gynecology","Lucknow","Uttar Pradesh"
+"917","Dr. Shreya Kumar","Gastroenterology","Ahmedabad","Gujarat"
+"918","Dr. Aarti Reddy","Oncology","Delhi","Delhi"
+"919","Dr. Suresh Patel","Pulmonology","Chennai","Tamil Nadu"
+"920","Dr. Suresh Kumar","Cardiology","Mumbai","Maharashtra"
+"921","Dr. Sunil Chopra","ENT","Mumbai","Maharashtra"
+"922","Dr. Rajesh Kumar","Pediatrics","Lucknow","Uttar Pradesh"
+"923","Dr. Prakash Verma","Psychiatry","Jaipur","Rajasthan"
+"924","Dr. Anil Chopra","ENT","Delhi","Delhi"
+"925","Dr. Priya Chopra","Psychiatry","Jaipur","Rajasthan"
+"926","Dr. Neha Kumar","Cardiology","Pune","Maharashtra"
+"927","Dr. Anita Chopra","Dermatology","Mumbai","Maharashtra"
+"928","Dr. Aarti Iyer","Gynecology","Kolkata","West Bengal"
+"929","Dr. Anil Verma","Orthopedics","Pune","Maharashtra"
+"930","Dr. Meena Iyer","General Medicine","Ahmedabad","Gujarat"
+"931","Dr. Aarti Verma","Pulmonology","Jaipur","Rajasthan"
+"932","Dr. Rohit Iyer","Urology","Pune","Maharashtra"
+"933","Dr. Priya Das","General Medicine","Mumbai","Maharashtra"
+"934","Dr. Anita Yadav","Cardiology","Chennai","Tamil Nadu"
+"935","Dr. Kavita Reddy","Psychiatry","Hyderabad","Telangana"
+"936","Dr. Shreya Reddy","Cardiology","Bengaluru","Karnataka"
+"937","Dr. Priya Patel","Oncology","Lucknow","Uttar Pradesh"
+"938","Dr. Amit Reddy","ENT","Pune","Maharashtra"
+"939","Dr. Shreya Reddy","ENT","Kolkata","West Bengal"
+"940","Dr. Rohit Das","Gastroenterology","Kolkata","West Bengal"
+"941","Dr. Pooja Yadav","Orthopedics","Jaipur","Rajasthan"
+"942","Dr. Sunil Kumar","Dermatology","Chennai","Tamil Nadu"
+"943","Dr. Ritu Patel","General Medicine","Hyderabad","Telangana"
+"944","Dr. Rajesh Singh","Pediatrics","Pune","Maharashtra"
+"945","Dr. Amit Iyer","Gastroenterology","Kolkata","West Bengal"
+"946","Dr. Meena Sharma","Gastroenterology","Kolkata","West Bengal"
+"947","Dr. Pooja Singh","Orthopedics","Mumbai","Maharashtra"
+"948","Dr. Ritu Das","Orthopedics","Kolkata","West Bengal"
+"949","Dr. Kavita Iyer","Pediatrics","Hyderabad","Telangana"
+"950","Dr. Ritu Verma","Orthopedics","Bengaluru","Karnataka"
+"951","Dr. Priya Patel","Gastroenterology","Hyderabad","Telangana"
+"952","Dr. Amit Kumar","Urology","Ahmedabad","Gujarat"
+"953","Dr. Deepak Iyer","Neurology","Jaipur","Rajasthan"
+"954","Dr. Priya Das","Neurology","Chennai","Tamil Nadu"
+"955","Dr. Anil Chopra","Psychiatry","Bengaluru","Karnataka"
+"956","Dr. Sunil Kumar","Dermatology","Jaipur","Rajasthan"
+"957","Dr. Priya Verma","Gastroenterology","Mumbai","Maharashtra"
+"958","Dr. Neha Patel","Neurology","Kolkata","West Bengal"
+"959","Dr. Priya Sharma","Neurology","Lucknow","Uttar Pradesh"
+"960","Dr. Rohit Verma","Pulmonology","Jaipur","Rajasthan"
+"961","Dr. Vijay Singh","Urology","Delhi","Delhi"
+"962","Dr. Sunil Kumar","Oncology","Lucknow","Uttar Pradesh"
+"963","Dr. Vijay Chopra","Cardiology","Mumbai","Maharashtra"
+"964","Dr. Anita Yadav","Gynecology","Hyderabad","Telangana"
+"965","Dr. Shreya Iyer","ENT","Mumbai","Maharashtra"
+"966","Dr. Shreya Iyer","Gastroenterology","Bengaluru","Karnataka"
+"967","Dr. Kavita Iyer","ENT","Ahmedabad","Gujarat"
+"968","Dr. Vijay Patel","Gynecology","Mumbai","Maharashtra"
+"969","Dr. Vijay Sharma","Pulmonology","Delhi","Delhi"
+"970","Dr. Priya Yadav","Neurology","Jaipur","Rajasthan"
+"971","Dr. Rohit Verma","Pulmonology","Kolkata","West Bengal"
+"972","Dr. Rohit Das","Oncology","Pune","Maharashtra"
+"973","Dr. Meena Das","General Medicine","Ahmedabad","Gujarat"
+"974","Dr. Amit Yadav","Gynecology","Kolkata","West Bengal"
+"975","Dr. Deepak Singh","Gynecology","Chennai","Tamil Nadu"
+"976","Dr. Kiran Iyer","Oncology","Pune","Maharashtra"
+"977","Dr. Sunil Sharma","Psychiatry","Kolkata","West Bengal"
+"978","Dr. Aarti Patel","Oncology","Chennai","Tamil Nadu"
+"979","Dr. Sunita Das","ENT","Chennai","Tamil Nadu"
+"980","Dr. Pooja Iyer","Urology","Mumbai","Maharashtra"
+"981","Dr. Priya Iyer","General Medicine","Delhi","Delhi"
+"982","Dr. Ritu Yadav","Psychiatry","Lucknow","Uttar Pradesh"
+"983","Dr. Anita Chopra","Orthopedics","Pune","Maharashtra"
+"984","Dr. Sunil Reddy","Orthopedics","Jaipur","Rajasthan"
+"985","Dr. Sunita Das","Dermatology","Pune","Maharashtra"
+"986","Dr. Vijay Iyer","Urology","Chennai","Tamil Nadu"
+"987","Dr. Neha Singh","Pediatrics","Kolkata","West Bengal"
+"988","Dr. Amit Yadav","Gynecology","Delhi","Delhi"
+"989","Dr. Suresh Iyer","Gastroenterology","Hyderabad","Telangana"
+"990","Dr. Ritu Patel","Pulmonology","Chennai","Tamil Nadu"
+"991","Dr. Kiran Singh","Urology","Chennai","Tamil Nadu"
+"992","Dr. Prakash Sharma","Neurology","Chennai","Tamil Nadu"
+"993","Dr. Anil Das","Gynecology","Chennai","Tamil Nadu"
+"994","Dr. Rohit Reddy","Neurology","Mumbai","Maharashtra"
+"995","Dr. Sunita Sharma","Pulmonology","Hyderabad","Telangana"
+"996","Dr. Anita Iyer","Orthopedics","Jaipur","Rajasthan"
+"997","Dr. Shreya Yadav","Orthopedics","Kolkata","West Bengal"
+"998","Dr. Rajesh Patel","Pediatrics","Lucknow","Uttar Pradesh"
+"999","Dr. Ritu Reddy","Pulmonology","Jaipur","Rajasthan"
+"1000","Dr. Rohit Patel","General Medicine","Kolkata","West Bengal"
+"1001","Dr. Pooja Kumar","Gastroenterology","Pune","Maharashtra"
+"1002","Dr. Prakash Das","Gastroenterology","Pune","Maharashtra"
+"1003","Dr. Rohit Chopra","Gynecology","Chennai","Tamil Nadu"
+"1004","Dr. Sunita Kumar","Orthopedics","Jaipur","Rajasthan"
+"1005","Dr. Anil Sharma","Psychiatry","Delhi","Delhi"
+"1006","Dr. Ritu Das","ENT","Delhi","Delhi"
+"1007","Dr. Anil Reddy","Orthopedics","Hyderabad","Telangana"
+"1008","Dr. Prakash Verma","Neurology","Jaipur","Rajasthan"
+"1009","Dr. Rohit Das","Neurology","Chennai","Tamil Nadu"
+"1010","Dr. Kiran Reddy","Neurology","Delhi","Delhi"
+"1011","Dr. Anita Kumar","Neurology","Ahmedabad","Gujarat"
+"1012","Dr. Shreya Yadav","ENT","Mumbai","Maharashtra"
+"1013","Dr. Amit Iyer","Orthopedics","Hyderabad","Telangana"
+"1014","Dr. Shreya Iyer","Gastroenterology","Jaipur","Rajasthan"
+"1015","Dr. Amit Chopra","Oncology","Chennai","Tamil Nadu"
+"1016","Dr. Sunil Das","Gastroenterology","Chennai","Tamil Nadu"
+"1017","Dr. Vijay Chopra","Gastroenterology","Pune","Maharashtra"
+"1018","Dr. Meena Patel","Gastroenterology","Pune","Maharashtra"
+"1019","Dr. Anil Patel","Neurology","Mumbai","Maharashtra"
+"1020","Dr. Vijay Yadav","ENT","Mumbai","Maharashtra"
+"1021","Dr. Rajesh Sharma","Gynecology","Chennai","Tamil Nadu"
+"1022","Dr. Deepak Iyer","Orthopedics","Pune","Maharashtra"
+"1023","Dr. Meena Yadav","Gastroenterology","Chennai","Tamil Nadu"
+"1024","Dr. Anil Das","Oncology","Bengaluru","Karnataka"
+"1025","Dr. Shreya Chopra","Psychiatry","Jaipur","Rajasthan"
+"1026","Dr. Sunita Iyer","Psychiatry","Jaipur","Rajasthan"
+"1027","Dr. Sunil Reddy","Urology","Delhi","Delhi"
+"1028","Dr. Meena Reddy","Pediatrics","Jaipur","Rajasthan"
+"1029","Dr. Priya Chopra","Gynecology","Lucknow","Uttar Pradesh"
+"1030","Dr. Ritu Patel","Cardiology","Mumbai","Maharashtra"
+"1031","Dr. Sunita Kumar","General Medicine","Bengaluru","Karnataka"
+"1032","Dr. Shreya Das","Urology","Pune","Maharashtra"
+"1033","Dr. Priya Iyer","ENT","Pune","Maharashtra"
+"1034","Dr. Deepak Yadav","Orthopedics","Kolkata","West Bengal"
+"1035","Dr. Prakash Das","Pulmonology","Jaipur","Rajasthan"
+"1036","Dr. Vijay Sharma","Pulmonology","Delhi","Delhi"
+"1037","Dr. Pooja Chopra","ENT","Ahmedabad","Gujarat"
+"1038","Dr. Anita Das","Oncology","Lucknow","Uttar Pradesh"
+"1039","Dr. Deepak Reddy","Oncology","Bengaluru","Karnataka"
+"1040","Dr. Anil Chopra","Urology","Chennai","Tamil Nadu"
+"1041","Dr. Suresh Reddy","Pulmonology","Chennai","Tamil Nadu"
+"1042","Dr. Kiran Reddy","General Medicine","Kolkata","West Bengal"
+"1043","Dr. Rajesh Das","Neurology","Mumbai","Maharashtra"
+"1044","Dr. Pooja Das","Cardiology","Chennai","Tamil Nadu"
+"1045","Dr. Shreya Sharma","Dermatology","Chennai","Tamil Nadu"
+"1046","Dr. Meena Reddy","Gynecology","Bengaluru","Karnataka"
+"1047","Dr. Amit Reddy","Pediatrics","Bengaluru","Karnataka"
+"1048","Dr. Meena Reddy","Gastroenterology","Hyderabad","Telangana"
+"1049","Dr. Ritu Sharma","Dermatology","Delhi","Delhi"
+"1050","Dr. Anita Yadav","Psychiatry","Jaipur","Rajasthan"
+"1051","Dr. Kiran Das","Gastroenterology","Pune","Maharashtra"
+"1052","Dr. Prakash Kumar","Pulmonology","Kolkata","West Bengal"
+"1053","Dr. Vijay Reddy","Pulmonology","Hyderabad","Telangana"
+"1054","Dr. Prakash Verma","General Medicine","Pune","Maharashtra"
+"1055","Dr. Rajesh Chopra","Cardiology","Pune","Maharashtra"
+"1056","Dr. Meena Chopra","Neurology","Chennai","Tamil Nadu"
+"1057","Dr. Deepak Reddy","Orthopedics","Bengaluru","Karnataka"
+"1058","Dr. Sunita Chopra","Pulmonology","Lucknow","Uttar Pradesh"
+"1059","Dr. Neha Singh","Orthopedics","Delhi","Delhi"
+"1060","Dr. Kavita Reddy","Pediatrics","Jaipur","Rajasthan"
+"1061","Dr. Rohit Verma","Gastroenterology","Lucknow","Uttar Pradesh"
+"1062","Dr. Kiran Das","General Medicine","Lucknow","Uttar Pradesh"
+"1063","Dr. Priya Verma","Pulmonology","Hyderabad","Telangana"
+"1064","Dr. Amit Yadav","Pediatrics","Kolkata","West Bengal"
+"1065","Dr. Sunita Sharma","General Medicine","Lucknow","Uttar Pradesh"
+"1066","Dr. Sunil Patel","Psychiatry","Chennai","Tamil Nadu"
+"1067","Dr. Amit Reddy","Urology","Jaipur","Rajasthan"
+"1068","Dr. Deepak Chopra","Dermatology","Chennai","Tamil Nadu"
+"1069","Dr. Anil Das","Neurology","Mumbai","Maharashtra"
+"1070","Dr. Sunita Sharma","Gynecology","Ahmedabad","Gujarat"
+"1071","Dr. Sunita Patel","Pulmonology","Mumbai","Maharashtra"
+"1072","Dr. Anita Chopra","Orthopedics","Bengaluru","Karnataka"
+"1073","Dr. Sunil Verma","Urology","Ahmedabad","Gujarat"
+"1074","Dr. Kiran Reddy","Neurology","Hyderabad","Telangana"
+"1075","Dr. Kavita Singh","Pulmonology","Delhi","Delhi"
+"1076","Dr. Rohit Das","General Medicine","Ahmedabad","Gujarat"
+"1077","Dr. Anita Iyer","Dermatology","Ahmedabad","Gujarat"
+"1078","Dr. Priya Chopra","General Medicine","Pune","Maharashtra"
+"1079","Dr. Pooja Yadav","Orthopedics","Ahmedabad","Gujarat"
+"1080","Dr. Vijay Verma","Oncology","Ahmedabad","Gujarat"
+"1081","Dr. Priya Singh","Oncology","Kolkata","West Bengal"
+"1082","Dr. Suresh Kumar","Dermatology","Ahmedabad","Gujarat"
+"1083","Dr. Shreya Singh","Pulmonology","Lucknow","Uttar Pradesh"
+"1084","Dr. Sunil Singh","Gastroenterology","Mumbai","Maharashtra"
+"1085","Dr. Priya Singh","Urology","Bengaluru","Karnataka"
+"1086","Dr. Vijay Das","Dermatology","Bengaluru","Karnataka"
+"1087","Dr. Vijay Patel","Neurology","Chennai","Tamil Nadu"
+"1088","Dr. Amit Singh","Cardiology","Delhi","Delhi"
+"1089","Dr. Meena Kumar","Gynecology","Kolkata","West Bengal"
+"1090","Dr. Priya Singh","Neurology","Pune","Maharashtra"
+"1091","Dr. Rajesh Singh","General Medicine","Lucknow","Uttar Pradesh"
+"1092","Dr. Anil Yadav","Pulmonology","Ahmedabad","Gujarat"
+"1093","Dr. Priya Das","Cardiology","Mumbai","Maharashtra"
+"1094","Dr. Amit Verma","Cardiology","Bengaluru","Karnataka"
+"1095","Dr. Sunita Singh","Gynecology","Delhi","Delhi"
+"1096","Dr. Rohit Kumar","ENT","Lucknow","Uttar Pradesh"
+"1097","Dr. Shreya Das","Dermatology","Bengaluru","Karnataka"
+"1098","Dr. Kiran Chopra","Psychiatry","Mumbai","Maharashtra"
+"1099","Dr. Sunita Verma","ENT","Jaipur","Rajasthan"
+"1100","Dr. Sunil Singh","Gynecology","Lucknow","Uttar Pradesh"
+"1101","Dr. Amit Chopra","Orthopedics","Bengaluru","Karnataka"
+"1102","Dr. Meena Kumar","Pediatrics","Mumbai","Maharashtra"
+"1103","Dr. Rajesh Das","Orthopedics","Ahmedabad","Gujarat"
+"1104","Dr. Sunil Kumar","Psychiatry","Jaipur","Rajasthan"
+"1105","Dr. Rohit Singh","Oncology","Pune","Maharashtra"
+"1106","Dr. Meena Iyer","Oncology","Hyderabad","Telangana"
+"1107","Dr. Neha Sharma","Gastroenterology","Pune","Maharashtra"
+"1108","Dr. Kavita Verma","Pediatrics","Lucknow","Uttar Pradesh"
+"1109","Dr. Suresh Singh","Urology","Pune","Maharashtra"
+"1110","Dr. Vijay Reddy","Urology","Bengaluru","Karnataka"
+"1111","Dr. Pooja Sharma","Pulmonology","Kolkata","West Bengal"
+"1112","Dr. Anita Kumar","Gynecology","Hyderabad","Telangana"
+"1113","Dr. Sunita Yadav","Psychiatry","Hyderabad","Telangana"
+"1114","Dr. Vijay Patel","Urology","Jaipur","Rajasthan"
+"1115","Dr. Rajesh Singh","Gastroenterology","Delhi","Delhi"
+"1116","Dr. Amit Verma","Pulmonology","Chennai","Tamil Nadu"
+"1117","Dr. Shreya Chopra","Oncology","Pune","Maharashtra"
+"1118","Dr. Meena Singh","Neurology","Hyderabad","Telangana"
+"1119","Dr. Neha Yadav","Gastroenterology","Hyderabad","Telangana"
+"1120","Dr. Meena Patel","Orthopedics","Jaipur","Rajasthan"
+"1121","Dr. Pooja Singh","Psychiatry","Jaipur","Rajasthan"
+"1122","Dr. Anita Kumar","Neurology","Bengaluru","Karnataka"
+"1123","Dr. Ritu Patel","General Medicine","Delhi","Delhi"
+"1124","Dr. Kiran Chopra","Psychiatry","Kolkata","West Bengal"
+"1125","Dr. Aarti Patel","Urology","Chennai","Tamil Nadu"
+"1126","Dr. Meena Kumar","Orthopedics","Pune","Maharashtra"
+"1127","Dr. Aarti Kumar","Orthopedics","Delhi","Delhi"
+"1128","Dr. Aarti Iyer","Pulmonology","Ahmedabad","Gujarat"
+"1129","Dr. Rajesh Patel","ENT","Chennai","Tamil Nadu"
+"1130","Dr. Kiran Reddy","ENT","Bengaluru","Karnataka"
+"1131","Dr. Prakash Yadav","Psychiatry","Mumbai","Maharashtra"
+"1132","Dr. Ritu Reddy","Cardiology","Hyderabad","Telangana"
+"1133","Dr. Meena Patel","ENT","Pune","Maharashtra"
+"1134","Dr. Rohit Singh","Neurology","Hyderabad","Telangana"
+"1135","Dr. Sunil Singh","Orthopedics","Lucknow","Uttar Pradesh"
+"1136","Dr. Shreya Reddy","Cardiology","Mumbai","Maharashtra"
+"1137","Dr. Priya Yadav","Gastroenterology","Hyderabad","Telangana"
+"1138","Dr. Kiran Reddy","General Medicine","Delhi","Delhi"
+"1139","Dr. Priya Patel","Pediatrics","Chennai","Tamil Nadu"
+"1140","Dr. Anil Iyer","Psychiatry","Lucknow","Uttar Pradesh"
+"1141","Dr. Sunil Patel","Urology","Delhi","Delhi"
+"1142","Dr. Sunil Yadav","Pulmonology","Kolkata","West Bengal"
+"1143","Dr. Kiran Iyer","Oncology","Pune","Maharashtra"
+"1144","Dr. Rajesh Patel","Urology","Bengaluru","Karnataka"
+"1145","Dr. Pooja Patel","Pulmonology","Delhi","Delhi"
+"1146","Dr. Pooja Das","ENT","Ahmedabad","Gujarat"
+"1147","Dr. Aarti Chopra","General Medicine","Delhi","Delhi"
+"1148","Dr. Rohit Yadav","Pediatrics","Lucknow","Uttar Pradesh"
+"1149","Dr. Suresh Sharma","Oncology","Delhi","Delhi"
+"1150","Dr. Vijay Das","Oncology","Bengaluru","Karnataka"
+"1151","Dr. Kavita Patel","Psychiatry","Kolkata","West Bengal"
+"1152","Dr. Anil Verma","Urology","Ahmedabad","Gujarat"
+"1153","Dr. Vijay Singh","ENT","Chennai","Tamil Nadu"
+"1154","Dr. Deepak Patel","General Medicine","Pune","Maharashtra"
+"1155","Dr. Pooja Kumar","Pediatrics","Mumbai","Maharashtra"
+"1156","Dr. Ritu Das","Cardiology","Mumbai","Maharashtra"
+"1157","Dr. Ritu Singh","Pediatrics","Jaipur","Rajasthan"
+"1158","Dr. Rohit Singh","Cardiology","Lucknow","Uttar Pradesh"
+"1159","Dr. Meena Das","ENT","Hyderabad","Telangana"
+"1160","Dr. Sunil Singh","Psychiatry","Lucknow","Uttar Pradesh"
+"1161","Dr. Aarti Chopra","Gastroenterology","Mumbai","Maharashtra"
+"1162","Dr. Kiran Patel","Dermatology","Kolkata","West Bengal"
+"1163","Dr. Neha Kumar","Dermatology","Kolkata","West Bengal"
+"1164","Dr. Aarti Yadav","Dermatology","Mumbai","Maharashtra"
+"1165","Dr. Prakash Das","Pulmonology","Bengaluru","Karnataka"
+"1166","Dr. Rajesh Singh","Neurology","Kolkata","West Bengal"
+"1167","Dr. Pooja Reddy","Oncology","Pune","Maharashtra"
+"1168","Dr. Shreya Patel","Psychiatry","Bengaluru","Karnataka"
+"1169","Dr. Ritu Kumar","Dermatology","Ahmedabad","Gujarat"
+"1170","Dr. Prakash Iyer","ENT","Lucknow","Uttar Pradesh"
+"1171","Dr. Pooja Iyer","Orthopedics","Kolkata","West Bengal"
+"1172","Dr. Amit Sharma","ENT","Bengaluru","Karnataka"
+"1173","Dr. Amit Iyer","Urology","Kolkata","West Bengal"
+"1174","Dr. Meena Patel","Oncology","Chennai","Tamil Nadu"
+"1175","Dr. Suresh Das","Orthopedics","Lucknow","Uttar Pradesh"
+"1176","Dr. Ritu Iyer","Gynecology","Pune","Maharashtra"
+"1177","Dr. Kiran Verma","Psychiatry","Mumbai","Maharashtra"
+"1178","Dr. Sunita Das","Dermatology","Ahmedabad","Gujarat"
+"1179","Dr. Sunil Kumar","Gynecology","Chennai","Tamil Nadu"
+"1180","Dr. Ritu Verma","Cardiology","Pune","Maharashtra"
+"1181","Dr. Priya Patel","Gastroenterology","Mumbai","Maharashtra"
+"1182","Dr. Sunil Singh","General Medicine","Bengaluru","Karnataka"
+"1183","Dr. Pooja Iyer","Psychiatry","Delhi","Delhi"
+"1184","Dr. Shreya Iyer","Psychiatry","Ahmedabad","Gujarat"
+"1185","Dr. Sunita Yadav","Pediatrics","Lucknow","Uttar Pradesh"
+"1186","Dr. Kiran Patel","Gastroenterology","Bengaluru","Karnataka"
+"1187","Dr. Anil Chopra","Dermatology","Hyderabad","Telangana"
+"1188","Dr. Neha Iyer","Gynecology","Lucknow","Uttar Pradesh"
+"1189","Dr. Suresh Singh","Pediatrics","Delhi","Delhi"
+"1190","Dr. Amit Das","Psychiatry","Chennai","Tamil Nadu"
+"1191","Dr. Ritu Iyer","Gynecology","Chennai","Tamil Nadu"
+"1192","Dr. Rajesh Sharma","ENT","Lucknow","Uttar Pradesh"
+"1193","Dr. Kavita Patel","Pulmonology","Mumbai","Maharashtra"
+"1194","Dr. Vijay Patel","Psychiatry","Lucknow","Uttar Pradesh"
+"1195","Dr. Sunita Yadav","Dermatology","Bengaluru","Karnataka"
+"1196","Dr. Pooja Sharma","Dermatology","Pune","Maharashtra"
+"1197","Dr. Neha Yadav","Gynecology","Bengaluru","Karnataka"
+"1198","Dr. Suresh Sharma","ENT","Hyderabad","Telangana"
+"1199","Dr. Pooja Patel","Pulmonology","Lucknow","Uttar Pradesh"
+"1200","Dr. Neha Verma","Gastroenterology","Hyderabad","Telangana"
+"1201","Dr. Aarti Sharma","Urology","Bengaluru","Karnataka"
+"1202","Dr. Suresh Singh","Oncology","Jaipur","Rajasthan"
+"1203","Dr. Aarti Patel","Neurology","Bengaluru","Karnataka"
+"1204","Dr. Rajesh Iyer","General Medicine","Jaipur","Rajasthan"
+"1205","Dr. Sunita Iyer","Pediatrics","Mumbai","Maharashtra"
+"1206","Dr. Priya Kumar","Neurology","Chennai","Tamil Nadu"
+"1207","Dr. Sunil Singh","Urology","Pune","Maharashtra"
+"1208","Dr. Ritu Yadav","Oncology","Bengaluru","Karnataka"
+"1209","Dr. Pooja Reddy","Oncology","Delhi","Delhi"
+"1210","Dr. Aarti Iyer","Oncology","Lucknow","Uttar Pradesh"
+"1211","Dr. Sunita Verma","Gastroenterology","Delhi","Delhi"
+"1212","Dr. Neha Iyer","Pulmonology","Mumbai","Maharashtra"
+"1213","Dr. Anil Iyer","Dermatology","Lucknow","Uttar Pradesh"
+"1214","Dr. Rajesh Verma","General Medicine","Lucknow","Uttar Pradesh"
+"1215","Dr. Kiran Das","Pediatrics","Chennai","Tamil Nadu"
+"1216","Dr. Anil Sharma","Gastroenterology","Lucknow","Uttar Pradesh"
+"1217","Dr. Amit Patel","ENT","Chennai","Tamil Nadu"
+"1218","Dr. Vijay Iyer","Psychiatry","Ahmedabad","Gujarat"
+"1219","Dr. Rohit Iyer","Orthopedics","Delhi","Delhi"
+"1220","Dr. Aarti Iyer","Gynecology","Mumbai","Maharashtra"
+"1221","Dr. Sunita Iyer","Dermatology","Pune","Maharashtra"
+"1222","Dr. Anita Sharma","Urology","Hyderabad","Telangana"
+"1223","Dr. Prakash Verma","Orthopedics","Delhi","Delhi"
+"1224","Dr. Sunil Kumar","ENT","Ahmedabad","Gujarat"
+"1225","Dr. Aarti Yadav","Psychiatry","Bengaluru","Karnataka"
+"1226","Dr. Aarti Chopra","Dermatology","Mumbai","Maharashtra"
+"1227","Dr. Anita Singh","Urology","Pune","Maharashtra"
+"1228","Dr. Kavita Yadav","Pulmonology","Ahmedabad","Gujarat"
+"1229","Dr. Pooja Yadav","Neurology","Mumbai","Maharashtra"
+"1230","Dr. Anil Das","Pulmonology","Bengaluru","Karnataka"
+"1231","Dr. Neha Patel","Oncology","Delhi","Delhi"
+"1232","Dr. Kiran Patel","Cardiology","Mumbai","Maharashtra"
+"1233","Dr. Neha Patel","Pulmonology","Jaipur","Rajasthan"
+"1234","Dr. Rajesh Singh","Urology","Kolkata","West Bengal"
+"1235","Dr. Rajesh Yadav","Dermatology","Lucknow","Uttar Pradesh"
+"1236","Dr. Pooja Sharma","Neurology","Bengaluru","Karnataka"
+"1237","Dr. Vijay Kumar","Dermatology","Lucknow","Uttar Pradesh"
+"1238","Dr. Rohit Kumar","Dermatology","Pune","Maharashtra"
+"1239","Dr. Sunita Patel","Neurology","Kolkata","West Bengal"
+"1240","Dr. Kavita Verma","Pulmonology","Kolkata","West Bengal"
+"1241","Dr. Rajesh Verma","Gynecology","Jaipur","Rajasthan"
+"1242","Dr. Suresh Iyer","Pediatrics","Kolkata","West Bengal"
+"1243","Dr. Anita Iyer","Psychiatry","Delhi","Delhi"
+"1244","Dr. Deepak Verma","Gastroenterology","Chennai","Tamil Nadu"
+"1245","Dr. Sunil Chopra","General Medicine","Lucknow","Uttar Pradesh"
+"1246","Dr. Meena Chopra","Psychiatry","Mumbai","Maharashtra"
+"1247","Dr. Pooja Reddy","Dermatology","Ahmedabad","Gujarat"
+"1248","Dr. Anita Yadav","ENT","Chennai","Tamil Nadu"
+"1249","Dr. Aarti Sharma","Pediatrics","Hyderabad","Telangana"
+"1250","Dr. Suresh Chopra","Orthopedics","Mumbai","Maharashtra"
+"1251","Dr. Kavita Patel","Gynecology","Ahmedabad","Gujarat"
+"1252","Dr. Aarti Reddy","Pediatrics","Mumbai","Maharashtra"
+"1253","Dr. Kavita Patel","Pulmonology","Delhi","Delhi"
+"1254","Dr. Pooja Iyer","Psychiatry","Pune","Maharashtra"
+"1255","Dr. Priya Singh","Cardiology","Delhi","Delhi"
+"1256","Dr. Sunita Chopra","Pulmonology","Kolkata","West Bengal"
+"1257","Dr. Aarti Verma","Neurology","Kolkata","West Bengal"
+"1258","Dr. Rohit Kumar","Gynecology","Ahmedabad","Gujarat"
+"1259","Dr. Sunil Das","Dermatology","Bengaluru","Karnataka"
+"1260","Dr. Priya Das","Oncology","Chennai","Tamil Nadu"
+"1261","Dr. Amit Chopra","Gynecology","Lucknow","Uttar Pradesh"
+"1262","Dr. Kiran Yadav","ENT","Ahmedabad","Gujarat"
+"1263","Dr. Sunil Verma","Gastroenterology","Delhi","Delhi"
+"1264","Dr. Neha Verma","Urology","Lucknow","Uttar Pradesh"
+"1265","Dr. Anil Verma","Oncology","Pune","Maharashtra"
+"1266","Dr. Vijay Yadav","ENT","Jaipur","Rajasthan"
+"1267","Dr. Kavita Yadav","Oncology","Hyderabad","Telangana"
+"1268","Dr. Priya Kumar","Cardiology","Pune","Maharashtra"
+"1269","Dr. Ritu Yadav","Pulmonology","Jaipur","Rajasthan"
+"1270","Dr. Sunil Iyer","Dermatology","Bengaluru","Karnataka"
+"1271","Dr. Rohit Singh","Urology","Lucknow","Uttar Pradesh"
+"1272","Dr. Kiran Iyer","Neurology","Mumbai","Maharashtra"
+"1273","Dr. Priya Iyer","Cardiology","Mumbai","Maharashtra"
+"1274","Dr. Meena Verma","Neurology","Ahmedabad","Gujarat"
+"1275","Dr. Suresh Sharma","General Medicine","Kolkata","West Bengal"
+"1276","Dr. Sunil Patel","Urology","Lucknow","Uttar Pradesh"
+"1277","Dr. Suresh Kumar","General Medicine","Chennai","Tamil Nadu"
+"1278","Dr. Suresh Patel","Urology","Mumbai","Maharashtra"
+"1279","Dr. Ritu Yadav","ENT","Delhi","Delhi"
+"1280","Dr. Shreya Kumar","Gastroenterology","Jaipur","Rajasthan"
+"1281","Dr. Prakash Singh","Pediatrics","Pune","Maharashtra"
+"1282","Dr. Kiran Yadav","Pediatrics","Ahmedabad","Gujarat"
+"1283","Dr. Vijay Reddy","Psychiatry","Kolkata","West Bengal"
+"1284","Dr. Amit Singh","Oncology","Lucknow","Uttar Pradesh"
+"1285","Dr. Deepak Kumar","Neurology","Mumbai","Maharashtra"
+"1286","Dr. Sunil Reddy","Cardiology","Jaipur","Rajasthan"
+"1287","Dr. Kiran Iyer","Dermatology","Chennai","Tamil Nadu"
+"1288","Dr. Priya Singh","Cardiology","Lucknow","Uttar Pradesh"
+"1289","Dr. Rajesh Sharma","Urology","Ahmedabad","Gujarat"
+"1290","Dr. Deepak Reddy","Oncology","Mumbai","Maharashtra"
+"1291","Dr. Rajesh Patel","Cardiology","Jaipur","Rajasthan"
+"1292","Dr. Anil Reddy","Orthopedics","Chennai","Tamil Nadu"
+"1293","Dr. Priya Das","Orthopedics","Hyderabad","Telangana"
+"1294","Dr. Sunita Patel","ENT","Delhi","Delhi"
+"1295","Dr. Meena Singh","Dermatology","Chennai","Tamil Nadu"
+"1296","Dr. Deepak Singh","Dermatology","Delhi","Delhi"
+"1297","Dr. Rohit Singh","Gynecology","Ahmedabad","Gujarat"
+"1298","Dr. Sunil Verma","Psychiatry","Delhi","Delhi"
+"1299","Dr. Priya Iyer","Pediatrics","Ahmedabad","Gujarat"
+"1300","Dr. Ritu Chopra","ENT","Bengaluru","Karnataka"
+"1301","Dr. Aarti Verma","Gynecology","Delhi","Delhi"
+"1302","Dr. Neha Reddy","General Medicine","Hyderabad","Telangana"
+"1303","Dr. Sunita Chopra","Urology","Bengaluru","Karnataka"
+"1304","Dr. Ritu Chopra","Neurology","Delhi","Delhi"
+"1305","Dr. Meena Reddy","Psychiatry","Pune","Maharashtra"
+"1306","Dr. Meena Yadav","Neurology","Ahmedabad","Gujarat"
+"1307","Dr. Rajesh Iyer","Dermatology","Bengaluru","Karnataka"
+"1308","Dr. Suresh Verma","Urology","Pune","Maharashtra"
+"1309","Dr. Aarti Chopra","Cardiology","Mumbai","Maharashtra"
+"1310","Dr. Sunita Reddy","General Medicine","Mumbai","Maharashtra"
+"1311","Dr. Amit Chopra","Urology","Delhi","Delhi"
+"1312","Dr. Rohit Kumar","Cardiology","Jaipur","Rajasthan"
+"1313","Dr. Anil Kumar","Orthopedics","Bengaluru","Karnataka"
+"1314","Dr. Rajesh Patel","Urology","Pune","Maharashtra"
+"1315","Dr. Sunil Verma","Dermatology","Mumbai","Maharashtra"
+"1316","Dr. Kavita Iyer","Cardiology","Jaipur","Rajasthan"
+"1317","Dr. Shreya Kumar","Pulmonology","Ahmedabad","Gujarat"
+"1318","Dr. Anil Yadav","Cardiology","Hyderabad","Telangana"
+"1319","Dr. Kavita Iyer","Neurology","Mumbai","Maharashtra"
+"1320","Dr. Rajesh Reddy","Gastroenterology","Pune","Maharashtra"
+"1321","Dr. Deepak Das","Oncology","Mumbai","Maharashtra"
+"1322","Dr. Aarti Yadav","Urology","Jaipur","Rajasthan"
+"1323","Dr. Shreya Kumar","Urology","Delhi","Delhi"
+"1324","Dr. Rajesh Chopra","General Medicine","Delhi","Delhi"
+"1325","Dr. Kiran Verma","Gastroenterology","Bengaluru","Karnataka"
+"1326","Dr. Kavita Patel","Urology","Pune","Maharashtra"
+"1327","Dr. Suresh Yadav","Pediatrics","Kolkata","West Bengal"
+"1328","Dr. Sunil Yadav","Gynecology","Jaipur","Rajasthan"
+"1329","Dr. Amit Das","General Medicine","Ahmedabad","Gujarat"
+"1330","Dr. Priya Iyer","Cardiology","Ahmedabad","Gujarat"
+"1331","Dr. Vijay Singh","Gynecology","Hyderabad","Telangana"
+"1332","Dr. Anil Iyer","Gynecology","Delhi","Delhi"
+"1333","Dr. Sunil Iyer","Urology","Bengaluru","Karnataka"
+"1334","Dr. Shreya Yadav","General Medicine","Jaipur","Rajasthan"
+"1335","Dr. Kavita Singh","Pulmonology","Bengaluru","Karnataka"
+"1336","Dr. Kiran Chopra","Orthopedics","Bengaluru","Karnataka"
+"1337","Dr. Kiran Patel","Psychiatry","Lucknow","Uttar Pradesh"
+"1338","Dr. Deepak Yadav","Pediatrics","Pune","Maharashtra"
+"1339","Dr. Anil Singh","Pulmonology","Ahmedabad","Gujarat"
+"1340","Dr. Priya Iyer","Orthopedics","Kolkata","West Bengal"
+"1341","Dr. Pooja Kumar","ENT","Jaipur","Rajasthan"
+"1342","Dr. Amit Yadav","Oncology","Mumbai","Maharashtra"
+"1343","Dr. Vijay Sharma","Pediatrics","Kolkata","West Bengal"
+"1344","Dr. Deepak Kumar","Urology","Hyderabad","Telangana"
+"1345","Dr. Rajesh Reddy","ENT","Pune","Maharashtra"
+"1346","Dr. Aarti Sharma","ENT","Delhi","Delhi"
+"1347","Dr. Anil Singh","Orthopedics","Pune","Maharashtra"
+"1348","Dr. Neha Das","Cardiology","Lucknow","Uttar Pradesh"
+"1349","Dr. Priya Singh","Neurology","Hyderabad","Telangana"
+"1350","Dr. Suresh Sharma","Urology","Jaipur","Rajasthan"
+"1351","Dr. Pooja Singh","Oncology","Ahmedabad","Gujarat"
+"1352","Dr. Kiran Singh","Oncology","Kolkata","West Bengal"
+"1353","Dr. Kiran Sharma","Orthopedics","Ahmedabad","Gujarat"
+"1354","Dr. Rohit Singh","Gastroenterology","Pune","Maharashtra"
+"1355","Dr. Pooja Singh","Orthopedics","Kolkata","West Bengal"
+"1356","Dr. Prakash Singh","Gynecology","Kolkata","West Bengal"
+"1357","Dr. Priya Yadav","Pulmonology","Delhi","Delhi"
+"1358","Dr. Pooja Chopra","Dermatology","Ahmedabad","Gujarat"
+"1359","Dr. Amit Reddy","Gastroenterology","Pune","Maharashtra"
+"1360","Dr. Vijay Singh","General Medicine","Mumbai","Maharashtra"
+"1361","Dr. Rajesh Kumar","Dermatology","Bengaluru","Karnataka"
+"1362","Dr. Priya Verma","ENT","Ahmedabad","Gujarat"
+"1363","Dr. Aarti Sharma","Urology","Chennai","Tamil Nadu"
+"1364","Dr. Ritu Kumar","Gynecology","Lucknow","Uttar Pradesh"
+"1365","Dr. Sunita Singh","Gynecology","Ahmedabad","Gujarat"
+"1366","Dr. Anita Reddy","Dermatology","Mumbai","Maharashtra"
+"1367","Dr. Neha Yadav","Oncology","Pune","Maharashtra"
+"1368","Dr. Shreya Kumar","Orthopedics","Pune","Maharashtra"
+"1369","Dr. Aarti Patel","Dermatology","Delhi","Delhi"
+"1370","Dr. Anita Kumar","ENT","Lucknow","Uttar Pradesh"
+"1371","Dr. Deepak Das","General Medicine","Lucknow","Uttar Pradesh"
+"1372","Dr. Kavita Iyer","Gastroenterology","Kolkata","West Bengal"
+"1373","Dr. Deepak Yadav","Dermatology","Lucknow","Uttar Pradesh"
+"1374","Dr. Pooja Yadav","Pediatrics","Jaipur","Rajasthan"
+"1375","Dr. Deepak Chopra","Urology","Lucknow","Uttar Pradesh"
+"1376","Dr. Vijay Kumar","Dermatology","Delhi","Delhi"
+"1377","Dr. Sunil Singh","General Medicine","Pune","Maharashtra"
+"1378","Dr. Prakash Reddy","Neurology","Jaipur","Rajasthan"
+"1379","Dr. Rajesh Patel","General Medicine","Lucknow","Uttar Pradesh"
+"1380","Dr. Amit Kumar","Oncology","Mumbai","Maharashtra"
+"1381","Dr. Rohit Verma","Dermatology","Pune","Maharashtra"
+"1382","Dr. Meena Singh","Gastroenterology","Bengaluru","Karnataka"
+"1383","Dr. Meena Verma","Orthopedics","Lucknow","Uttar Pradesh"
+"1384","Dr. Anil Singh","Urology","Kolkata","West Bengal"
+"1385","Dr. Shreya Reddy","Psychiatry","Jaipur","Rajasthan"
+"1386","Dr. Rajesh Reddy","Cardiology","Lucknow","Uttar Pradesh"
+"1387","Dr. Rohit Das","Psychiatry","Lucknow","Uttar Pradesh"
+"1388","Dr. Sunil Iyer","ENT","Bengaluru","Karnataka"
+"1389","Dr. Meena Reddy","Neurology","Delhi","Delhi"
+"1390","Dr. Suresh Das","Pulmonology","Mumbai","Maharashtra"
+"1391","Dr. Meena Yadav","Cardiology","Delhi","Delhi"
+"1392","Dr. Aarti Yadav","Orthopedics","Bengaluru","Karnataka"
+"1393","Dr. Rajesh Chopra","General Medicine","Kolkata","West Bengal"
+"1394","Dr. Neha Patel","General Medicine","Pune","Maharashtra"
+"1395","Dr. Sunita Singh","Dermatology","Jaipur","Rajasthan"
+"1396","Dr. Kiran Chopra","Gastroenterology","Chennai","Tamil Nadu"
+"1397","Dr. Prakash Chopra","Cardiology","Delhi","Delhi"
+"1398","Dr. Aarti Patel","Orthopedics","Jaipur","Rajasthan"
+"1399","Dr. Kiran Sharma","Gastroenterology","Kolkata","West Bengal"
+"1400","Dr. Rajesh Reddy","Cardiology","Chennai","Tamil Nadu"
+"1401","Dr. Anita Yadav","Pediatrics","Jaipur","Rajasthan"
+"1402","Dr. Kiran Iyer","ENT","Delhi","Delhi"
+"1403","Dr. Pooja Sharma","Gastroenterology","Jaipur","Rajasthan"
+"1404","Dr. Vijay Chopra","Pediatrics","Lucknow","Uttar Pradesh"
+"1405","Dr. Sunil Singh","Urology","Chennai","Tamil Nadu"
+"1406","Dr. Shreya Sharma","Psychiatry","Kolkata","West Bengal"
+"1407","Dr. Amit Reddy","Neurology","Chennai","Tamil Nadu"
+"1408","Dr. Anil Iyer","Cardiology","Lucknow","Uttar Pradesh"
+"1409","Dr. Sunil Yadav","Psychiatry","Lucknow","Uttar Pradesh"
+"1410","Dr. Anil Patel","Pulmonology","Lucknow","Uttar Pradesh"
+"1411","Dr. Sunil Kumar","Urology","Ahmedabad","Gujarat"
+"1412","Dr. Suresh Verma","ENT","Jaipur","Rajasthan"
+"1413","Dr. Sunil Verma","Urology","Kolkata","West Bengal"
+"1414","Dr. Sunil Chopra","ENT","Delhi","Delhi"
+"1415","Dr. Sunil Verma","Pediatrics","Mumbai","Maharashtra"
+"1416","Dr. Kiran Kumar","Pediatrics","Mumbai","Maharashtra"
+"1417","Dr. Anil Patel","Neurology","Kolkata","West Bengal"
+"1418","Dr. Rajesh Reddy","Urology","Kolkata","West Bengal"
+"1419","Dr. Kavita Das","Oncology","Mumbai","Maharashtra"
+"1420","Dr. Shreya Reddy","Psychiatry","Hyderabad","Telangana"
+"1421","Dr. Anita Reddy","ENT","Mumbai","Maharashtra"
+"1422","Dr. Aarti Chopra","Dermatology","Mumbai","Maharashtra"
+"1423","Dr. Meena Singh","Gastroenterology","Pune","Maharashtra"
+"1424","Dr. Kavita Chopra","Oncology","Kolkata","West Bengal"
+"1425","Dr. Aarti Kumar","General Medicine","Lucknow","Uttar Pradesh"
+"1426","Dr. Sunita Sharma","Oncology","Pune","Maharashtra"
+"1427","Dr. Anil Reddy","Gastroenterology","Pune","Maharashtra"
+"1428","Dr. Aarti Kumar","Neurology","Hyderabad","Telangana"
+"1429","Dr. Sunil Singh","Psychiatry","Pune","Maharashtra"
+"1430","Dr. Rohit Das","Pediatrics","Ahmedabad","Gujarat"
+"1431","Dr. Kiran Patel","Oncology","Jaipur","Rajasthan"
+"1432","Dr. Priya Chopra","Cardiology","Hyderabad","Telangana"
+"1433","Dr. Prakash Kumar","Orthopedics","Lucknow","Uttar Pradesh"
+"1434","Dr. Shreya Reddy","Neurology","Ahmedabad","Gujarat"
+"1435","Dr. Anil Verma","Cardiology","Mumbai","Maharashtra"
+"1436","Dr. Prakash Yadav","General Medicine","Ahmedabad","Gujarat"
+"1437","Dr. Priya Reddy","Orthopedics","Pune","Maharashtra"
+"1438","Dr. Rajesh Reddy","Dermatology","Pune","Maharashtra"
+"1439","Dr. Anita Iyer","Urology","Mumbai","Maharashtra"
+"1440","Dr. Aarti Yadav","Psychiatry","Hyderabad","Telangana"
+"1441","Dr. Pooja Singh","Cardiology","Bengaluru","Karnataka"
+"1442","Dr. Meena Patel","ENT","Pune","Maharashtra"
+"1443","Dr. Pooja Reddy","Urology","Ahmedabad","Gujarat"
+"1444","Dr. Neha Reddy","Pulmonology","Pune","Maharashtra"
+"1445","Dr. Meena Patel","Cardiology","Lucknow","Uttar Pradesh"
+"1446","Dr. Priya Reddy","Orthopedics","Lucknow","Uttar Pradesh"
+"1447","Dr. Sunita Singh","General Medicine","Bengaluru","Karnataka"
+"1448","Dr. Amit Chopra","Pulmonology","Chennai","Tamil Nadu"
+"1449","Dr. Shreya Iyer","Urology","Jaipur","Rajasthan"
+"1450","Dr. Aarti Das","Orthopedics","Pune","Maharashtra"
+"1451","Dr. Anil Kumar","Dermatology","Mumbai","Maharashtra"
+"1452","Dr. Sunita Das","General Medicine","Bengaluru","Karnataka"
+"1453","Dr. Vijay Sharma","Cardiology","Kolkata","West Bengal"
+"1454","Dr. Suresh Verma","Neurology","Chennai","Tamil Nadu"
+"1455","Dr. Ritu Singh","Dermatology","Lucknow","Uttar Pradesh"
+"1456","Dr. Rohit Yadav","Neurology","Delhi","Delhi"
+"1457","Dr. Aarti Das","Pulmonology","Bengaluru","Karnataka"
+"1458","Dr. Suresh Das","Orthopedics","Delhi","Delhi"
+"1459","Dr. Priya Sharma","ENT","Jaipur","Rajasthan"
+"1460","Dr. Sunil Das","Orthopedics","Chennai","Tamil Nadu"
+"1461","Dr. Priya Verma","Psychiatry","Delhi","Delhi"
+"1462","Dr. Vijay Chopra","Pulmonology","Pune","Maharashtra"
+"1463","Dr. Rajesh Singh","Psychiatry","Kolkata","West Bengal"
+"1464","Dr. Shreya Verma","ENT","Delhi","Delhi"
+"1465","Dr. Pooja Singh","Gynecology","Hyderabad","Telangana"
+"1466","Dr. Anil Patel","Psychiatry","Mumbai","Maharashtra"
+"1467","Dr. Kiran Kumar","Cardiology","Mumbai","Maharashtra"
+"1468","Dr. Shreya Chopra","Gastroenterology","Chennai","Tamil Nadu"
+"1469","Dr. Meena Reddy","Urology","Pune","Maharashtra"
+"1470","Dr. Pooja Chopra","Cardiology","Chennai","Tamil Nadu"
+"1471","Dr. Anita Reddy","Neurology","Lucknow","Uttar Pradesh"
+"1472","Dr. Amit Reddy","Oncology","Bengaluru","Karnataka"
+"1473","Dr. Deepak Das","General Medicine","Jaipur","Rajasthan"
+"1474","Dr. Deepak Sharma","Oncology","Hyderabad","Telangana"
+"1475","Dr. Kiran Das","ENT","Ahmedabad","Gujarat"
+"1476","Dr. Rajesh Singh","Psychiatry","Ahmedabad","Gujarat"
+"1477","Dr. Vijay Das","Gastroenterology","Delhi","Delhi"
+"1478","Dr. Deepak Reddy","General Medicine","Ahmedabad","Gujarat"
+"1479","Dr. Amit Das","Neurology","Jaipur","Rajasthan"
+"1480","Dr. Ritu Das","General Medicine","Jaipur","Rajasthan"
+"1481","Dr. Deepak Verma","Oncology","Delhi","Delhi"
+"1482","Dr. Sunil Das","Gynecology","Kolkata","West Bengal"
+"1483","Dr. Neha Chopra","Orthopedics","Pune","Maharashtra"
+"1484","Dr. Kiran Sharma","Pediatrics","Delhi","Delhi"
+"1485","Dr. Suresh Yadav","Dermatology","Bengaluru","Karnataka"
+"1486","Dr. Meena Yadav","Urology","Delhi","Delhi"
+"1487","Dr. Vijay Singh","Dermatology","Hyderabad","Telangana"
+"1488","Dr. Prakash Das","ENT","Chennai","Tamil Nadu"
+"1489","Dr. Pooja Yadav","Neurology","Pune","Maharashtra"
+"1490","Dr. Kiran Chopra","Gynecology","Mumbai","Maharashtra"
+"1491","Dr. Sunil Chopra","Orthopedics","Bengaluru","Karnataka"
+"1492","Dr. Meena Verma","Oncology","Pune","Maharashtra"
+"1493","Dr. Pooja Patel","Urology","Kolkata","West Bengal"
+"1494","Dr. Aarti Reddy","Oncology","Pune","Maharashtra"
+"1495","Dr. Suresh Yadav","General Medicine","Pune","Maharashtra"
+"1496","Dr. Vijay Patel","ENT","Mumbai","Maharashtra"
+"1497","Dr. Prakash Yadav","Gastroenterology","Kolkata","West Bengal"
+"1498","Dr. Rohit Chopra","Pulmonology","Jaipur","Rajasthan"
+"1499","Dr. Amit Reddy","Oncology","Kolkata","West Bengal"
+"1500","Dr. Rohit Singh","Orthopedics","Chennai","Tamil Nadu"
+"1501","Dr. Kavita Reddy","ENT","Chennai","Tamil Nadu"
+"1502","Dr. Amit Reddy","Dermatology","Hyderabad","Telangana"
+"1503","Dr. Prakash Chopra","Dermatology","Delhi","Delhi"
+"1504","Dr. Amit Patel","Gynecology","Kolkata","West Bengal"
+"1505","Dr. Anil Verma","Cardiology","Jaipur","Rajasthan"
+"1506","Dr. Prakash Patel","Dermatology","Kolkata","West Bengal"
+"1507","Dr. Rajesh Patel","Cardiology","Pune","Maharashtra"
+"1508","Dr. Anita Reddy","Urology","Chennai","Tamil Nadu"
+"1509","Dr. Suresh Yadav","Gastroenterology","Pune","Maharashtra"
+"1510","Dr. Kiran Das","General Medicine","Chennai","Tamil Nadu"
+"1511","Dr. Sunita Reddy","Gynecology","Lucknow","Uttar Pradesh"
+"1512","Dr. Pooja Patel","Orthopedics","Pune","Maharashtra"
+"1513","Dr. Anil Chopra","Cardiology","Pune","Maharashtra"
+"1514","Dr. Meena Das","Dermatology","Chennai","Tamil Nadu"
+"1515","Dr. Rajesh Das","ENT","Jaipur","Rajasthan"
+"1516","Dr. Pooja Das","ENT","Chennai","Tamil Nadu"
+"1517","Dr. Priya Chopra","Pulmonology","Hyderabad","Telangana"
+"1518","Dr. Priya Reddy","Pulmonology","Pune","Maharashtra"
+"1519","Dr. Priya Yadav","ENT","Pune","Maharashtra"
+"1520","Dr. Pooja Singh","Gastroenterology","Jaipur","Rajasthan"
+"1521","Dr. Pooja Reddy","Dermatology","Delhi","Delhi"
+"1522","Dr. Rohit Das","Pediatrics","Delhi","Delhi"
+"1523","Dr. Vijay Das","General Medicine","Kolkata","West Bengal"
+"1524","Dr. Sunil Yadav","Gastroenterology","Mumbai","Maharashtra"
+"1525","Dr. Aarti Verma","Urology","Delhi","Delhi"
+"1526","Dr. Anita Sharma","Psychiatry","Mumbai","Maharashtra"
+"1527","Dr. Ritu Sharma","Gynecology","Pune","Maharashtra"
+"1528","Dr. Deepak Iyer","ENT","Jaipur","Rajasthan"
+"1529","Dr. Pooja Patel","Gastroenterology","Mumbai","Maharashtra"
+"1530","Dr. Neha Sharma","Pulmonology","Hyderabad","Telangana"
+"1531","Dr. Neha Verma","Psychiatry","Kolkata","West Bengal"
+"1532","Dr. Kiran Chopra","Gynecology","Ahmedabad","Gujarat"
+"1533","Dr. Priya Yadav","Psychiatry","Delhi","Delhi"
+"1534","Dr. Shreya Chopra","Cardiology","Chennai","Tamil Nadu"
+"1535","Dr. Kavita Patel","Pulmonology","Mumbai","Maharashtra"
+"1536","Dr. Amit Reddy","Pulmonology","Chennai","Tamil Nadu"
+"1537","Dr. Vijay Iyer","Neurology","Mumbai","Maharashtra"
+"1538","Dr. Aarti Reddy","Gastroenterology","Pune","Maharashtra"
+"1539","Dr. Shreya Das","Urology","Pune","Maharashtra"
+"1540","Dr. Anil Reddy","Orthopedics","Pune","Maharashtra"
+"1541","Dr. Kiran Sharma","Pediatrics","Kolkata","West Bengal"
+"1542","Dr. Anita Kumar","Neurology","Delhi","Delhi"
+"1543","Dr. Sunita Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"1544","Dr. Amit Iyer","Urology","Lucknow","Uttar Pradesh"
+"1545","Dr. Sunita Iyer","Orthopedics","Hyderabad","Telangana"
+"1546","Dr. Anil Verma","Oncology","Bengaluru","Karnataka"
+"1547","Dr. Pooja Reddy","Cardiology","Bengaluru","Karnataka"
+"1548","Dr. Amit Sharma","Gastroenterology","Lucknow","Uttar Pradesh"
+"1549","Dr. Pooja Yadav","Urology","Chennai","Tamil Nadu"
+"1550","Dr. Kiran Chopra","Psychiatry","Mumbai","Maharashtra"
+"1551","Dr. Anita Kumar","Orthopedics","Mumbai","Maharashtra"
+"1552","Dr. Rajesh Chopra","Psychiatry","Mumbai","Maharashtra"
+"1553","Dr. Vijay Singh","ENT","Jaipur","Rajasthan"
+"1554","Dr. Anita Verma","Gastroenterology","Kolkata","West Bengal"
+"1555","Dr. Prakash Kumar","Pulmonology","Hyderabad","Telangana"
+"1556","Dr. Sunil Chopra","Oncology","Bengaluru","Karnataka"
+"1557","Dr. Shreya Kumar","Cardiology","Chennai","Tamil Nadu"
+"1558","Dr. Suresh Reddy","Gynecology","Jaipur","Rajasthan"
+"1559","Dr. Aarti Reddy","Psychiatry","Chennai","Tamil Nadu"
+"1560","Dr. Ritu Iyer","Psychiatry","Chennai","Tamil Nadu"
+"1561","Dr. Anil Sharma","ENT","Chennai","Tamil Nadu"
+"1562","Dr. Priya Reddy","Orthopedics","Bengaluru","Karnataka"
+"1563","Dr. Aarti Iyer","Orthopedics","Ahmedabad","Gujarat"
+"1564","Dr. Rohit Verma","Neurology","Kolkata","West Bengal"
+"1565","Dr. Shreya Chopra","Dermatology","Lucknow","Uttar Pradesh"
+"1566","Dr. Priya Sharma","Gastroenterology","Bengaluru","Karnataka"
+"1567","Dr. Vijay Iyer","Gastroenterology","Pune","Maharashtra"
+"1568","Dr. Kavita Kumar","Pediatrics","Kolkata","West Bengal"
+"1569","Dr. Shreya Iyer","Cardiology","Mumbai","Maharashtra"
+"1570","Dr. Anita Yadav","Urology","Pune","Maharashtra"
+"1571","Dr. Neha Chopra","Pediatrics","Mumbai","Maharashtra"
+"1572","Dr. Sunil Yadav","Urology","Ahmedabad","Gujarat"
+"1573","Dr. Anita Sharma","Gynecology","Hyderabad","Telangana"
+"1574","Dr. Kiran Iyer","Pulmonology","Hyderabad","Telangana"
+"1575","Dr. Anita Kumar","Pulmonology","Kolkata","West Bengal"
+"1576","Dr. Priya Yadav","Orthopedics","Jaipur","Rajasthan"
+"1577","Dr. Aarti Chopra","Gastroenterology","Ahmedabad","Gujarat"
+"1578","Dr. Prakash Singh","Oncology","Jaipur","Rajasthan"
+"1579","Dr. Anil Kumar","Gastroenterology","Chennai","Tamil Nadu"
+"1580","Dr. Rohit Reddy","Psychiatry","Jaipur","Rajasthan"
+"1581","Dr. Rajesh Iyer","Urology","Hyderabad","Telangana"
+"1582","Dr. Rajesh Yadav","Pulmonology","Kolkata","West Bengal"
+"1583","Dr. Kavita Sharma","Dermatology","Bengaluru","Karnataka"
+"1584","Dr. Anita Sharma","Dermatology","Lucknow","Uttar Pradesh"
+"1585","Dr. Shreya Das","ENT","Ahmedabad","Gujarat"
+"1586","Dr. Shreya Kumar","ENT","Hyderabad","Telangana"
+"1587","Dr. Kavita Patel","Neurology","Jaipur","Rajasthan"
+"1588","Dr. Ritu Reddy","Dermatology","Chennai","Tamil Nadu"
+"1589","Dr. Anil Singh","ENT","Ahmedabad","Gujarat"
+"1590","Dr. Sunil Kumar","Psychiatry","Chennai","Tamil Nadu"
+"1591","Dr. Kiran Patel","Urology","Chennai","Tamil Nadu"
+"1592","Dr. Deepak Kumar","Oncology","Jaipur","Rajasthan"
+"1593","Dr. Vijay Chopra","Pulmonology","Lucknow","Uttar Pradesh"
+"1594","Dr. Pooja Chopra","Psychiatry","Mumbai","Maharashtra"
+"1595","Dr. Kavita Yadav","General Medicine","Chennai","Tamil Nadu"
+"1596","Dr. Suresh Reddy","Dermatology","Bengaluru","Karnataka"
+"1597","Dr. Kavita Verma","General Medicine","Ahmedabad","Gujarat"
+"1598","Dr. Rohit Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"1599","Dr. Prakash Singh","Neurology","Mumbai","Maharashtra"
+"1600","Dr. Sunil Chopra","Cardiology","Lucknow","Uttar Pradesh"
+"1601","Dr. Prakash Chopra","Gynecology","Chennai","Tamil Nadu"
+"1602","Dr. Deepak Singh","Psychiatry","Bengaluru","Karnataka"
+"1603","Dr. Deepak Iyer","Pulmonology","Mumbai","Maharashtra"
+"1604","Dr. Aarti Das","ENT","Kolkata","West Bengal"
+"1605","Dr. Kiran Singh","Urology","Hyderabad","Telangana"
+"1606","Dr. Anil Singh","Psychiatry","Mumbai","Maharashtra"
+"1607","Dr. Prakash Das","Oncology","Jaipur","Rajasthan"
+"1608","Dr. Suresh Reddy","Urology","Kolkata","West Bengal"
+"1609","Dr. Kavita Singh","Urology","Jaipur","Rajasthan"
+"1610","Dr. Amit Verma","Urology","Ahmedabad","Gujarat"
+"1611","Dr. Kavita Reddy","Dermatology","Delhi","Delhi"
+"1612","Dr. Kiran Iyer","ENT","Hyderabad","Telangana"
+"1613","Dr. Vijay Chopra","Gastroenterology","Pune","Maharashtra"
+"1614","Dr. Sunita Sharma","Psychiatry","Pune","Maharashtra"
+"1615","Dr. Sunil Verma","Psychiatry","Hyderabad","Telangana"
+"1616","Dr. Kavita Das","Gynecology","Lucknow","Uttar Pradesh"
+"1617","Dr. Anita Kumar","Pulmonology","Hyderabad","Telangana"
+"1618","Dr. Anil Verma","Gynecology","Lucknow","Uttar Pradesh"
+"1619","Dr. Aarti Kumar","ENT","Lucknow","Uttar Pradesh"
+"1620","Dr. Suresh Sharma","Pediatrics","Hyderabad","Telangana"
+"1621","Dr. Aarti Reddy","Gastroenterology","Lucknow","Uttar Pradesh"
+"1622","Dr. Rohit Yadav","Urology","Ahmedabad","Gujarat"
+"1623","Dr. Prakash Sharma","Gastroenterology","Jaipur","Rajasthan"
+"1624","Dr. Neha Kumar","ENT","Mumbai","Maharashtra"
+"1625","Dr. Kiran Patel","Dermatology","Jaipur","Rajasthan"
+"1626","Dr. Suresh Iyer","Gynecology","Mumbai","Maharashtra"
+"1627","Dr. Kiran Sharma","Orthopedics","Lucknow","Uttar Pradesh"
+"1628","Dr. Rohit Patel","Urology","Jaipur","Rajasthan"
+"1629","Dr. Rajesh Chopra","Gynecology","Bengaluru","Karnataka"
+"1630","Dr. Kavita Iyer","Orthopedics","Kolkata","West Bengal"
+"1631","Dr. Prakash Singh","Orthopedics","Lucknow","Uttar Pradesh"
+"1632","Dr. Pooja Singh","Cardiology","Mumbai","Maharashtra"
+"1633","Dr. Anita Kumar","Gynecology","Delhi","Delhi"
+"1634","Dr. Sunil Sharma","Dermatology","Ahmedabad","Gujarat"
+"1635","Dr. Anita Patel","ENT","Bengaluru","Karnataka"
+"1636","Dr. Anil Verma","Pediatrics","Lucknow","Uttar Pradesh"
+"1637","Dr. Anil Verma","Oncology","Lucknow","Uttar Pradesh"
+"1638","Dr. Sunita Kumar","Pulmonology","Hyderabad","Telangana"
+"1639","Dr. Shreya Das","Neurology","Chennai","Tamil Nadu"
+"1640","Dr. Sunil Das","ENT","Mumbai","Maharashtra"
+"1641","Dr. Kiran Patel","Psychiatry","Hyderabad","Telangana"
+"1642","Dr. Anita Iyer","Urology","Pune","Maharashtra"
+"1643","Dr. Rajesh Yadav","Cardiology","Mumbai","Maharashtra"
+"1644","Dr. Neha Reddy","Pediatrics","Bengaluru","Karnataka"
+"1645","Dr. Neha Iyer","Gynecology","Lucknow","Uttar Pradesh"
+"1646","Dr. Pooja Verma","Cardiology","Mumbai","Maharashtra"
+"1647","Dr. Aarti Sharma","Cardiology","Ahmedabad","Gujarat"
+"1648","Dr. Rohit Sharma","Gastroenterology","Pune","Maharashtra"
+"1649","Dr. Vijay Patel","Neurology","Jaipur","Rajasthan"
+"1650","Dr. Kavita Iyer","Gastroenterology","Delhi","Delhi"
+"1651","Dr. Rohit Sharma","Oncology","Delhi","Delhi"
+"1652","Dr. Amit Verma","General Medicine","Pune","Maharashtra"
+"1653","Dr. Priya Singh","Gastroenterology","Mumbai","Maharashtra"
+"1654","Dr. Anil Das","Cardiology","Lucknow","Uttar Pradesh"
+"1655","Dr. Neha Kumar","Pediatrics","Mumbai","Maharashtra"
+"1656","Dr. Meena Das","ENT","Chennai","Tamil Nadu"
+"1657","Dr. Vijay Yadav","Urology","Bengaluru","Karnataka"
+"1658","Dr. Anil Iyer","Dermatology","Chennai","Tamil Nadu"
+"1659","Dr. Deepak Reddy","Psychiatry","Pune","Maharashtra"
+"1660","Dr. Sunil Verma","Dermatology","Ahmedabad","Gujarat"
+"1661","Dr. Priya Patel","Cardiology","Mumbai","Maharashtra"
+"1662","Dr. Sunil Das","ENT","Lucknow","Uttar Pradesh"
+"1663","Dr. Priya Reddy","Neurology","Kolkata","West Bengal"
+"1664","Dr. Amit Kumar","Cardiology","Jaipur","Rajasthan"
+"1665","Dr. Rohit Chopra","Orthopedics","Mumbai","Maharashtra"
+"1666","Dr. Anil Kumar","Pediatrics","Pune","Maharashtra"
+"1667","Dr. Priya Sharma","General Medicine","Ahmedabad","Gujarat"
+"1668","Dr. Neha Iyer","Gastroenterology","Kolkata","West Bengal"
+"1669","Dr. Vijay Kumar","Gastroenterology","Pune","Maharashtra"
+"1670","Dr. Aarti Reddy","Psychiatry","Bengaluru","Karnataka"
+"1671","Dr. Amit Das","Gastroenterology","Chennai","Tamil Nadu"
+"1672","Dr. Sunita Das","Urology","Kolkata","West Bengal"
+"1673","Dr. Prakash Kumar","ENT","Pune","Maharashtra"
+"1674","Dr. Rohit Kumar","Pediatrics","Pune","Maharashtra"
+"1675","Dr. Shreya Yadav","Gastroenterology","Bengaluru","Karnataka"
+"1676","Dr. Shreya Patel","Pulmonology","Bengaluru","Karnataka"
+"1677","Dr. Vijay Das","Psychiatry","Mumbai","Maharashtra"
+"1678","Dr. Rohit Das","Urology","Hyderabad","Telangana"
+"1679","Dr. Vijay Kumar","General Medicine","Bengaluru","Karnataka"
+"1680","Dr. Sunil Singh","Psychiatry","Chennai","Tamil Nadu"
+"1681","Dr. Kiran Iyer","Pulmonology","Lucknow","Uttar Pradesh"
+"1682","Dr. Ritu Yadav","Gastroenterology","Chennai","Tamil Nadu"
+"1683","Dr. Anil Kumar","Urology","Pune","Maharashtra"
+"1684","Dr. Anil Singh","Gastroenterology","Chennai","Tamil Nadu"
+"1685","Dr. Aarti Chopra","Gastroenterology","Pune","Maharashtra"
+"1686","Dr. Rajesh Yadav","Orthopedics","Pune","Maharashtra"
+"1687","Dr. Rohit Kumar","Gastroenterology","Mumbai","Maharashtra"
+"1688","Dr. Prakash Iyer","ENT","Kolkata","West Bengal"
+"1689","Dr. Prakash Sharma","Gynecology","Mumbai","Maharashtra"
+"1690","Dr. Kiran Reddy","Psychiatry","Kolkata","West Bengal"
+"1691","Dr. Anita Reddy","Cardiology","Mumbai","Maharashtra"
+"1692","Dr. Shreya Verma","Cardiology","Ahmedabad","Gujarat"
+"1693","Dr. Prakash Kumar","Neurology","Kolkata","West Bengal"
+"1694","Dr. Prakash Reddy","Pediatrics","Jaipur","Rajasthan"
+"1695","Dr. Priya Chopra","Pulmonology","Kolkata","West Bengal"
+"1696","Dr. Anil Singh","Dermatology","Chennai","Tamil Nadu"
+"1697","Dr. Anita Yadav","ENT","Chennai","Tamil Nadu"
+"1698","Dr. Kiran Das","Neurology","Ahmedabad","Gujarat"
+"1699","Dr. Pooja Reddy","General Medicine","Kolkata","West Bengal"
+"1700","Dr. Anil Das","Gastroenterology","Delhi","Delhi"
+"1701","Dr. Kiran Kumar","Gastroenterology","Jaipur","Rajasthan"
+"1702","Dr. Neha Patel","Cardiology","Hyderabad","Telangana"
+"1703","Dr. Pooja Singh","Pediatrics","Delhi","Delhi"
+"1704","Dr. Kavita Kumar","Oncology","Pune","Maharashtra"
+"1705","Dr. Sunil Yadav","Neurology","Delhi","Delhi"
+"1706","Dr. Meena Iyer","General Medicine","Chennai","Tamil Nadu"
+"1707","Dr. Pooja Patel","Orthopedics","Jaipur","Rajasthan"
+"1708","Dr. Priya Sharma","ENT","Hyderabad","Telangana"
+"1709","Dr. Meena Sharma","Psychiatry","Kolkata","West Bengal"
+"1710","Dr. Anita Iyer","Oncology","Delhi","Delhi"
+"1711","Dr. Prakash Kumar","ENT","Mumbai","Maharashtra"
+"1712","Dr. Meena Patel","Oncology","Hyderabad","Telangana"
+"1713","Dr. Kiran Das","General Medicine","Hyderabad","Telangana"
+"1714","Dr. Rajesh Verma","Gastroenterology","Pune","Maharashtra"
+"1715","Dr. Anil Yadav","Neurology","Jaipur","Rajasthan"
+"1716","Dr. Amit Chopra","General Medicine","Hyderabad","Telangana"
+"1717","Dr. Anita Kumar","Psychiatry","Delhi","Delhi"
+"1718","Dr. Aarti Patel","Pulmonology","Mumbai","Maharashtra"
+"1719","Dr. Priya Yadav","Gynecology","Lucknow","Uttar Pradesh"
+"1720","Dr. Deepak Yadav","Orthopedics","Bengaluru","Karnataka"
+"1721","Dr. Kiran Yadav","Dermatology","Delhi","Delhi"
+"1722","Dr. Anil Kumar","Orthopedics","Lucknow","Uttar Pradesh"
+"1723","Dr. Kiran Sharma","Pulmonology","Jaipur","Rajasthan"
+"1724","Dr. Anita Yadav","Pulmonology","Hyderabad","Telangana"
+"1725","Dr. Anil Verma","Oncology","Kolkata","West Bengal"
+"1726","Dr. Neha Kumar","Pediatrics","Delhi","Delhi"
+"1727","Dr. Ritu Verma","Cardiology","Kolkata","West Bengal"
+"1728","Dr. Shreya Reddy","Oncology","Delhi","Delhi"
+"1729","Dr. Rohit Verma","General Medicine","Ahmedabad","Gujarat"
+"1730","Dr. Kavita Sharma","Pediatrics","Jaipur","Rajasthan"
+"1731","Dr. Pooja Sharma","Dermatology","Hyderabad","Telangana"
+"1732","Dr. Deepak Chopra","Cardiology","Chennai","Tamil Nadu"
+"1733","Dr. Anita Reddy","Pediatrics","Bengaluru","Karnataka"
+"1734","Dr. Aarti Verma","Cardiology","Mumbai","Maharashtra"
+"1735","Dr. Deepak Verma","Urology","Kolkata","West Bengal"
+"1736","Dr. Sunita Yadav","Psychiatry","Chennai","Tamil Nadu"
+"1737","Dr. Amit Das","Urology","Jaipur","Rajasthan"
+"1738","Dr. Deepak Sharma","Cardiology","Delhi","Delhi"
+"1739","Dr. Sunita Chopra","General Medicine","Chennai","Tamil Nadu"
+"1740","Dr. Kavita Patel","General Medicine","Chennai","Tamil Nadu"
+"1741","Dr. Kavita Chopra","Gastroenterology","Jaipur","Rajasthan"
+"1742","Dr. Meena Chopra","Dermatology","Chennai","Tamil Nadu"
+"1743","Dr. Anil Reddy","Pediatrics","Delhi","Delhi"
+"1744","Dr. Aarti Reddy","General Medicine","Hyderabad","Telangana"
+"1745","Dr. Pooja Das","Neurology","Delhi","Delhi"
+"1746","Dr. Shreya Yadav","Pulmonology","Bengaluru","Karnataka"
+"1747","Dr. Amit Reddy","Urology","Kolkata","West Bengal"
+"1748","Dr. Suresh Kumar","Cardiology","Mumbai","Maharashtra"
+"1749","Dr. Aarti Yadav","General Medicine","Lucknow","Uttar Pradesh"
+"1750","Dr. Deepak Kumar","Neurology","Hyderabad","Telangana"
+"1751","Dr. Kiran Verma","Cardiology","Kolkata","West Bengal"
+"1752","Dr. Aarti Sharma","Cardiology","Pune","Maharashtra"
+"1753","Dr. Pooja Patel","General Medicine","Delhi","Delhi"
+"1754","Dr. Neha Chopra","Oncology","Ahmedabad","Gujarat"
+"1755","Dr. Anita Reddy","Urology","Mumbai","Maharashtra"
+"1756","Dr. Sunita Singh","Psychiatry","Delhi","Delhi"
+"1757","Dr. Kiran Das","General Medicine","Pune","Maharashtra"
+"1758","Dr. Shreya Iyer","Gynecology","Pune","Maharashtra"
+"1759","Dr. Sunil Singh","Dermatology","Hyderabad","Telangana"
+"1760","Dr. Kavita Sharma","Orthopedics","Mumbai","Maharashtra"
+"1761","Dr. Pooja Patel","Gynecology","Jaipur","Rajasthan"
+"1762","Dr. Neha Verma","Pulmonology","Delhi","Delhi"
+"1763","Dr. Rajesh Reddy","Gastroenterology","Jaipur","Rajasthan"
+"1764","Dr. Meena Singh","Gastroenterology","Bengaluru","Karnataka"
+"1765","Dr. Kavita Reddy","ENT","Mumbai","Maharashtra"
+"1766","Dr. Deepak Reddy","Pulmonology","Chennai","Tamil Nadu"
+"1767","Dr. Meena Kumar","ENT","Kolkata","West Bengal"
+"1768","Dr. Pooja Yadav","Pulmonology","Lucknow","Uttar Pradesh"
+"1769","Dr. Kiran Yadav","Urology","Bengaluru","Karnataka"
+"1770","Dr. Aarti Reddy","Oncology","Bengaluru","Karnataka"
+"1771","Dr. Sunil Singh","Pulmonology","Bengaluru","Karnataka"
+"1772","Dr. Pooja Das","Cardiology","Mumbai","Maharashtra"
+"1773","Dr. Amit Reddy","Psychiatry","Jaipur","Rajasthan"
+"1774","Dr. Anil Patel","Orthopedics","Lucknow","Uttar Pradesh"
+"1775","Dr. Rohit Sharma","Orthopedics","Chennai","Tamil Nadu"
+"1776","Dr. Sunil Das","Gynecology","Pune","Maharashtra"
+"1777","Dr. Rajesh Chopra","ENT","Kolkata","West Bengal"
+"1778","Dr. Suresh Chopra","Dermatology","Hyderabad","Telangana"
+"1779","Dr. Meena Sharma","Cardiology","Lucknow","Uttar Pradesh"
+"1780","Dr. Sunita Kumar","Dermatology","Lucknow","Uttar Pradesh"
+"1781","Dr. Sunil Iyer","Cardiology","Chennai","Tamil Nadu"
+"1782","Dr. Anil Verma","Dermatology","Jaipur","Rajasthan"
+"1783","Dr. Aarti Yadav","Urology","Kolkata","West Bengal"
+"1784","Dr. Priya Yadav","Orthopedics","Kolkata","West Bengal"
+"1785","Dr. Anita Kumar","Pulmonology","Ahmedabad","Gujarat"
+"1786","Dr. Vijay Kumar","Psychiatry","Mumbai","Maharashtra"
+"1787","Dr. Kiran Sharma","ENT","Chennai","Tamil Nadu"
+"1788","Dr. Aarti Iyer","Gastroenterology","Chennai","Tamil Nadu"
+"1789","Dr. Shreya Chopra","Dermatology","Chennai","Tamil Nadu"
+"1790","Dr. Prakash Yadav","Oncology","Ahmedabad","Gujarat"
+"1791","Dr. Rohit Sharma","Pulmonology","Pune","Maharashtra"
+"1792","Dr. Prakash Sharma","Psychiatry","Pune","Maharashtra"
+"1793","Dr. Meena Singh","ENT","Chennai","Tamil Nadu"
+"1794","Dr. Prakash Singh","Oncology","Bengaluru","Karnataka"
+"1795","Dr. Ritu Singh","Pulmonology","Pune","Maharashtra"
+"1796","Dr. Vijay Patel","Dermatology","Bengaluru","Karnataka"
+"1797","Dr. Deepak Chopra","Dermatology","Hyderabad","Telangana"
+"1798","Dr. Kiran Sharma","Pediatrics","Hyderabad","Telangana"
+"1799","Dr. Rajesh Verma","ENT","Kolkata","West Bengal"
+"1800","Dr. Meena Reddy","Gynecology","Ahmedabad","Gujarat"
+"1801","Dr. Meena Chopra","Pediatrics","Ahmedabad","Gujarat"
+"1802","Dr. Rohit Yadav","Psychiatry","Bengaluru","Karnataka"
+"1803","Dr. Rajesh Sharma","Gynecology","Mumbai","Maharashtra"
+"1804","Dr. Sunita Iyer","General Medicine","Delhi","Delhi"
+"1805","Dr. Sunita Verma","Pediatrics","Jaipur","Rajasthan"
+"1806","Dr. Kiran Patel","Neurology","Ahmedabad","Gujarat"
+"1807","Dr. Pooja Patel","Orthopedics","Pune","Maharashtra"
+"1808","Dr. Anita Sharma","Urology","Mumbai","Maharashtra"
+"1809","Dr. Anita Sharma","Pulmonology","Jaipur","Rajasthan"
+"1810","Dr. Shreya Yadav","Pediatrics","Bengaluru","Karnataka"
+"1811","Dr. Sunita Singh","Pediatrics","Lucknow","Uttar Pradesh"
+"1812","Dr. Kavita Iyer","ENT","Hyderabad","Telangana"
+"1813","Dr. Suresh Verma","Pulmonology","Pune","Maharashtra"
+"1814","Dr. Anil Chopra","Gastroenterology","Jaipur","Rajasthan"
+"1815","Dr. Rajesh Singh","General Medicine","Delhi","Delhi"
+"1816","Dr. Sunil Verma","Gynecology","Lucknow","Uttar Pradesh"
+"1817","Dr. Pooja Kumar","Gynecology","Pune","Maharashtra"
+"1818","Dr. Anita Kumar","General Medicine","Kolkata","West Bengal"
+"1819","Dr. Prakash Iyer","Gastroenterology","Hyderabad","Telangana"
+"1820","Dr. Rohit Iyer","Pediatrics","Hyderabad","Telangana"
+"1821","Dr. Vijay Chopra","ENT","Ahmedabad","Gujarat"
+"1822","Dr. Kavita Patel","Psychiatry","Pune","Maharashtra"
+"1823","Dr. Meena Sharma","Urology","Pune","Maharashtra"
+"1824","Dr. Anita Das","Pediatrics","Bengaluru","Karnataka"
+"1825","Dr. Neha Yadav","Pulmonology","Lucknow","Uttar Pradesh"
+"1826","Dr. Anita Sharma","Oncology","Mumbai","Maharashtra"
+"1827","Dr. Sunil Kumar","Gastroenterology","Kolkata","West Bengal"
+"1828","Dr. Anita Kumar","Cardiology","Mumbai","Maharashtra"
+"1829","Dr. Sunil Singh","Oncology","Pune","Maharashtra"
+"1830","Dr. Neha Patel","Psychiatry","Kolkata","West Bengal"
+"1831","Dr. Anita Iyer","Dermatology","Bengaluru","Karnataka"
+"1832","Dr. Shreya Yadav","Pediatrics","Bengaluru","Karnataka"
+"1833","Dr. Ritu Chopra","Orthopedics","Lucknow","Uttar Pradesh"
+"1834","Dr. Anita Sharma","General Medicine","Hyderabad","Telangana"
+"1835","Dr. Anita Yadav","Pulmonology","Delhi","Delhi"
+"1836","Dr. Rajesh Chopra","Gastroenterology","Delhi","Delhi"
+"1837","Dr. Rohit Das","General Medicine","Ahmedabad","Gujarat"
+"1838","Dr. Amit Patel","General Medicine","Bengaluru","Karnataka"
+"1839","Dr. Amit Verma","Dermatology","Bengaluru","Karnataka"
+"1840","Dr. Deepak Iyer","Orthopedics","Ahmedabad","Gujarat"
+"1841","Dr. Rohit Iyer","Pulmonology","Bengaluru","Karnataka"
+"1842","Dr. Sunil Sharma","Gastroenterology","Hyderabad","Telangana"
+"1843","Dr. Anita Verma","Gastroenterology","Mumbai","Maharashtra"
+"1844","Dr. Suresh Reddy","Pulmonology","Mumbai","Maharashtra"
+"1845","Dr. Kiran Iyer","Gynecology","Hyderabad","Telangana"
+"1846","Dr. Suresh Iyer","Pediatrics","Mumbai","Maharashtra"
+"1847","Dr. Rajesh Singh","Oncology","Hyderabad","Telangana"
+"1848","Dr. Priya Yadav","Cardiology","Chennai","Tamil Nadu"
+"1849","Dr. Shreya Chopra","Pulmonology","Pune","Maharashtra"
+"1850","Dr. Aarti Kumar","Cardiology","Kolkata","West Bengal"
+"1851","Dr. Neha Iyer","Neurology","Ahmedabad","Gujarat"
+"1852","Dr. Priya Verma","ENT","Ahmedabad","Gujarat"
+"1853","Dr. Sunita Das","Urology","Chennai","Tamil Nadu"
+"1854","Dr. Shreya Iyer","Gastroenterology","Mumbai","Maharashtra"
+"1855","Dr. Kiran Sharma","Pediatrics","Chennai","Tamil Nadu"
+"1856","Dr. Vijay Iyer","Dermatology","Hyderabad","Telangana"
+"1857","Dr. Kiran Reddy","Pulmonology","Mumbai","Maharashtra"
+"1858","Dr. Deepak Verma","General Medicine","Chennai","Tamil Nadu"
+"1859","Dr. Neha Iyer","ENT","Chennai","Tamil Nadu"
+"1860","Dr. Rohit Iyer","Dermatology","Pune","Maharashtra"
+"1861","Dr. Anita Das","Oncology","Delhi","Delhi"
+"1862","Dr. Sunita Iyer","Gastroenterology","Ahmedabad","Gujarat"
+"1863","Dr. Anita Iyer","Pulmonology","Lucknow","Uttar Pradesh"
+"1864","Dr. Aarti Sharma","Dermatology","Bengaluru","Karnataka"
+"1865","Dr. Deepak Iyer","Gynecology","Bengaluru","Karnataka"
+"1866","Dr. Rohit Chopra","Gynecology","Hyderabad","Telangana"
+"1867","Dr. Kavita Patel","Cardiology","Bengaluru","Karnataka"
+"1868","Dr. Sunil Sharma","General Medicine","Kolkata","West Bengal"
+"1869","Dr. Priya Iyer","Gynecology","Pune","Maharashtra"
+"1870","Dr. Meena Patel","Oncology","Hyderabad","Telangana"
+"1871","Dr. Kiran Patel","Dermatology","Pune","Maharashtra"
+"1872","Dr. Anita Iyer","ENT","Lucknow","Uttar Pradesh"
+"1873","Dr. Rohit Singh","ENT","Bengaluru","Karnataka"
+"1874","Dr. Rajesh Yadav","ENT","Lucknow","Uttar Pradesh"
+"1875","Dr. Aarti Reddy","Neurology","Ahmedabad","Gujarat"
+"1876","Dr. Prakash Iyer","Pulmonology","Hyderabad","Telangana"
+"1877","Dr. Suresh Patel","Urology","Jaipur","Rajasthan"
+"1878","Dr. Ritu Chopra","Gastroenterology","Delhi","Delhi"
+"1879","Dr. Kavita Verma","Oncology","Hyderabad","Telangana"
+"1880","Dr. Rohit Singh","Oncology","Kolkata","West Bengal"
+"1881","Dr. Sunita Das","Oncology","Lucknow","Uttar Pradesh"
+"1882","Dr. Anil Kumar","Pulmonology","Jaipur","Rajasthan"
+"1883","Dr. Suresh Sharma","Cardiology","Bengaluru","Karnataka"
+"1884","Dr. Amit Iyer","Pediatrics","Delhi","Delhi"
+"1885","Dr. Amit Sharma","Gynecology","Lucknow","Uttar Pradesh"
+"1886","Dr. Kavita Das","General Medicine","Jaipur","Rajasthan"
+"1887","Dr. Amit Singh","Urology","Mumbai","Maharashtra"
+"1888","Dr. Priya Das","Orthopedics","Delhi","Delhi"
+"1889","Dr. Anil Patel","Psychiatry","Jaipur","Rajasthan"
+"1890","Dr. Rajesh Chopra","General Medicine","Hyderabad","Telangana"
+"1891","Dr. Anita Yadav","Orthopedics","Jaipur","Rajasthan"
+"1892","Dr. Rajesh Iyer","Psychiatry","Hyderabad","Telangana"
+"1893","Dr. Amit Patel","Urology","Chennai","Tamil Nadu"
+"1894","Dr. Sunil Patel","ENT","Mumbai","Maharashtra"
+"1895","Dr. Pooja Reddy","Pulmonology","Mumbai","Maharashtra"
+"1896","Dr. Suresh Chopra","Neurology","Ahmedabad","Gujarat"
+"1897","Dr. Amit Verma","ENT","Chennai","Tamil Nadu"
+"1898","Dr. Ritu Verma","Pediatrics","Lucknow","Uttar Pradesh"
+"1899","Dr. Rohit Reddy","Dermatology","Hyderabad","Telangana"
+"1900","Dr. Sunil Patel","Gynecology","Hyderabad","Telangana"
+"1901","Dr. Deepak Yadav","Gastroenterology","Delhi","Delhi"
+"1902","Dr. Rohit Iyer","Neurology","Chennai","Tamil Nadu"
+"1903","Dr. Sunil Patel","Neurology","Hyderabad","Telangana"
+"1904","Dr. Shreya Singh","Orthopedics","Hyderabad","Telangana"
+"1905","Dr. Priya Verma","Orthopedics","Hyderabad","Telangana"
+"1906","Dr. Kavita Singh","Orthopedics","Lucknow","Uttar Pradesh"
+"1907","Dr. Aarti Singh","Orthopedics","Mumbai","Maharashtra"
+"1908","Dr. Kavita Yadav","ENT","Chennai","Tamil Nadu"
+"1909","Dr. Rohit Chopra","Pediatrics","Pune","Maharashtra"
+"1910","Dr. Priya Yadav","ENT","Lucknow","Uttar Pradesh"
+"1911","Dr. Rajesh Das","Gynecology","Lucknow","Uttar Pradesh"
+"1912","Dr. Anita Iyer","Dermatology","Mumbai","Maharashtra"
+"1913","Dr. Rohit Sharma","Orthopedics","Chennai","Tamil Nadu"
+"1914","Dr. Anil Chopra","Neurology","Chennai","Tamil Nadu"
+"1915","Dr. Neha Iyer","ENT","Delhi","Delhi"
+"1916","Dr. Meena Iyer","Cardiology","Chennai","Tamil Nadu"
+"1917","Dr. Prakash Sharma","Pediatrics","Hyderabad","Telangana"
+"1918","Dr. Rajesh Kumar","Neurology","Kolkata","West Bengal"
+"1919","Dr. Ritu Patel","Oncology","Hyderabad","Telangana"
+"1920","Dr. Rajesh Sharma","Neurology","Pune","Maharashtra"
+"1921","Dr. Sunil Reddy","Orthopedics","Hyderabad","Telangana"
+"1922","Dr. Anita Verma","General Medicine","Pune","Maharashtra"
+"1923","Dr. Suresh Chopra","ENT","Lucknow","Uttar Pradesh"
+"1924","Dr. Rajesh Chopra","Pediatrics","Lucknow","Uttar Pradesh"
+"1925","Dr. Prakash Verma","Pulmonology","Lucknow","Uttar Pradesh"
+"1926","Dr. Priya Verma","Oncology","Hyderabad","Telangana"
+"1927","Dr. Rajesh Yadav","Cardiology","Kolkata","West Bengal"
+"1928","Dr. Prakash Kumar","Neurology","Kolkata","West Bengal"
+"1929","Dr. Suresh Reddy","Orthopedics","Chennai","Tamil Nadu"
+"1930","Dr. Sunil Singh","Pediatrics","Delhi","Delhi"
+"1931","Dr. Rajesh Reddy","Psychiatry","Lucknow","Uttar Pradesh"
+"1932","Dr. Sunil Das","ENT","Ahmedabad","Gujarat"
+"1933","Dr. Anil Reddy","Psychiatry","Pune","Maharashtra"
+"1934","Dr. Amit Verma","Orthopedics","Hyderabad","Telangana"
+"1935","Dr. Prakash Singh","Pediatrics","Mumbai","Maharashtra"
+"1936","Dr. Rajesh Kumar","Cardiology","Mumbai","Maharashtra"
+"1937","Dr. Rajesh Sharma","Urology","Chennai","Tamil Nadu"
+"1938","Dr. Ritu Sharma","Neurology","Delhi","Delhi"
+"1939","Dr. Vijay Das","General Medicine","Hyderabad","Telangana"
+"1940","Dr. Rohit Yadav","Gynecology","Jaipur","Rajasthan"
+"1941","Dr. Kiran Verma","Neurology","Chennai","Tamil Nadu"
+"1942","Dr. Ritu Patel","Pulmonology","Pune","Maharashtra"
+"1943","Dr. Shreya Yadav","Dermatology","Lucknow","Uttar Pradesh"
+"1944","Dr. Anil Yadav","Dermatology","Bengaluru","Karnataka"
+"1945","Dr. Neha Sharma","Orthopedics","Chennai","Tamil Nadu"
+"1946","Dr. Neha Verma","Pediatrics","Mumbai","Maharashtra"
+"1947","Dr. Neha Reddy","Cardiology","Jaipur","Rajasthan"
+"1948","Dr. Sunita Sharma","General Medicine","Mumbai","Maharashtra"
+"1949","Dr. Neha Singh","Gynecology","Lucknow","Uttar Pradesh"
+"1950","Dr. Amit Das","Urology","Hyderabad","Telangana"
+"1951","Dr. Anil Chopra","Gynecology","Pune","Maharashtra"
+"1952","Dr. Pooja Chopra","General Medicine","Jaipur","Rajasthan"
+"1953","Dr. Kavita Das","Cardiology","Mumbai","Maharashtra"
+"1954","Dr. Pooja Sharma","General Medicine","Ahmedabad","Gujarat"
+"1955","Dr. Anil Iyer","Dermatology","Bengaluru","Karnataka"
+"1956","Dr. Ritu Reddy","Cardiology","Mumbai","Maharashtra"
+"1957","Dr. Rajesh Verma","Orthopedics","Kolkata","West Bengal"
+"1958","Dr. Rajesh Das","ENT","Ahmedabad","Gujarat"
+"1959","Dr. Anil Das","Psychiatry","Delhi","Delhi"
+"1960","Dr. Aarti Das","Pulmonology","Pune","Maharashtra"
+"1961","Dr. Priya Das","Pediatrics","Jaipur","Rajasthan"
+"1962","Dr. Sunita Yadav","Gynecology","Lucknow","Uttar Pradesh"
+"1963","Dr. Rajesh Das","Gastroenterology","Jaipur","Rajasthan"
+"1964","Dr. Priya Kumar","Neurology","Mumbai","Maharashtra"
+"1965","Dr. Anita Patel","Pulmonology","Bengaluru","Karnataka"
+"1966","Dr. Vijay Chopra","Cardiology","Delhi","Delhi"
+"1967","Dr. Pooja Verma","Pulmonology","Hyderabad","Telangana"
+"1968","Dr. Neha Kumar","Urology","Kolkata","West Bengal"
+"1969","Dr. Sunil Patel","Orthopedics","Pune","Maharashtra"
+"1970","Dr. Aarti Yadav","Gynecology","Jaipur","Rajasthan"
+"1971","Dr. Prakash Das","General Medicine","Kolkata","West Bengal"
+"1972","Dr. Rajesh Singh","Pediatrics","Delhi","Delhi"
+"1973","Dr. Priya Reddy","Psychiatry","Lucknow","Uttar Pradesh"
+"1974","Dr. Suresh Patel","Urology","Bengaluru","Karnataka"
+"1975","Dr. Rajesh Sharma","Pediatrics","Bengaluru","Karnataka"
+"1976","Dr. Deepak Chopra","Urology","Mumbai","Maharashtra"
+"1977","Dr. Pooja Yadav","Orthopedics","Delhi","Delhi"
+"1978","Dr. Vijay Singh","Urology","Delhi","Delhi"
+"1979","Dr. Aarti Singh","Gynecology","Pune","Maharashtra"
+"1980","Dr. Rohit Sharma","Neurology","Delhi","Delhi"
+"1981","Dr. Anil Yadav","Neurology","Ahmedabad","Gujarat"
+"1982","Dr. Sunita Reddy","ENT","Kolkata","West Bengal"
+"1983","Dr. Rajesh Patel","Psychiatry","Kolkata","West Bengal"
+"1984","Dr. Kiran Chopra","Urology","Delhi","Delhi"
+"1985","Dr. Anita Sharma","Neurology","Pune","Maharashtra"
+"1986","Dr. Priya Singh","Urology","Mumbai","Maharashtra"
+"1987","Dr. Neha Verma","ENT","Bengaluru","Karnataka"
+"1988","Dr. Sunil Patel","Orthopedics","Hyderabad","Telangana"
+"1989","Dr. Prakash Reddy","Pediatrics","Bengaluru","Karnataka"
+"1990","Dr. Anil Singh","Pediatrics","Hyderabad","Telangana"
+"1991","Dr. Rajesh Verma","Gastroenterology","Delhi","Delhi"
+"1992","Dr. Rajesh Iyer","Cardiology","Hyderabad","Telangana"
+"1993","Dr. Vijay Sharma","Pediatrics","Chennai","Tamil Nadu"
+"1994","Dr. Pooja Iyer","Orthopedics","Hyderabad","Telangana"
+"1995","Dr. Kavita Sharma","General Medicine","Delhi","Delhi"
+"1996","Dr. Anil Yadav","Pulmonology","Hyderabad","Telangana"
+"1997","Dr. Deepak Kumar","Gynecology","Chennai","Tamil Nadu"
+"1998","Dr. Sunita Reddy","Urology","Chennai","Tamil Nadu"
+"1999","Dr. Neha Chopra","Dermatology","Bengaluru","Karnataka"
+"2000","Dr. Pooja Reddy","Orthopedics","Hyderabad","Telangana"
