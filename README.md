@@ -425,7 +425,7 @@ Balanced demographics indicate long-term patient potential.
 Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
 - GitHub: https://github.com/ankitkumargaya
-- LinkedIn: Add Your LinkedIn Profile Here
+- LinkedIn: https://www.linkedin.com/in/ankit5517
 
 ---
 
